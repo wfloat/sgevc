@@ -1,6 +1,9 @@
-FROM nvidia/cuda:11.8.0-cudnn8-runtime-ubuntu22.04
+FROM pytorch/pytorch:2.3.1-cuda11.8-cudnn8-devel
 
 ENV DEBIAN_FRONTEND=noninteractive
+
+# Remove any third-party apt sources to avoid issues with expiring keys.
+RUN rm -f /etc/apt/sources.list.d/*.list
 
 ARG USERNAME=containeruser
 ARG USER_UID=1000
@@ -13,25 +16,24 @@ RUN groupadd --gid $USER_GID $USERNAME \
     && echo $USERNAME ALL=\(root\) NOPASSWD:ALL > /etc/sudoers.d/$USERNAME \
     && chmod 0440 /etc/sudoers.d/$USERNAME \
     # Install libraries and development tools
-    && apt-get install -y software-properties-common build-essential libtool autoconf unzip sox curl && \
+    && apt-get install -y unzip curl sox && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
-
-# Install Python and pip
-RUN add-apt-repository ppa:deadsnakes/ppa
-RUN apt-get update && \
-    apt-get install -y python3-dev python3.9-distutils python3.9-dev python3.9 && \
-    apt-get clean && \
-    update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.9 1 && \
-    curl https://bootstrap.pypa.io/get-pip.py | python3.9
-# Set Python 3.9 as the default
-RUN update-alternatives --install /usr/bin/python python /usr/bin/python3.9 1
 
 RUN mkdir -p /home/${USERNAME}/sgevc
 WORKDIR /home/${USERNAME}/sgevc
 
+# Copy requirements.txt and install Python dependencies
+COPY --chown=$USERNAME:$USERNAME requirements.txt ./
+RUN pip install --no-cache-dir -r requirements.txt
+
 COPY --chown=$USERNAME:$USERNAME . .
 
+# Compile monotonic_align (TODO: not sure if I need to do this manually)
+WORKDIR /home/${USERNAME}/sgevc/monotonic_align
+RUN python setup.py build_ext --inplace
+
+WORKDIR /home/${USERNAME}/sgevc/
 USER $USERNAME
 
 CMD ["/bin/bash", "-c", "while sleep 1000; do :; done"]

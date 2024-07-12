@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  sgevc:
+    # Overrides default command so the development container keeps running until the user disconnects
+    command: /bin/bash -c "while sleep 1000; do :; done"
+    volumes:
+      - ./:/home/containeruser/sgevc

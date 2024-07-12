@@ -1,0 +1,21 @@
+{
+  "name": "sgevc",
+  "dockerComposeFile": ["../docker-compose.yaml", "docker-compose.dev.yaml"],
+  "service": "sgevc",
+  "remoteUser": "containeruser",
+  "workspaceFolder": "/home/containeruser/sgevc",
+  "shutdownAction": "stopCompose",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python"
+      ],
+      "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+      }
+    }
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {}
+  }
+}

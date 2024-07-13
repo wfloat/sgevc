@@ -30,8 +30,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY --chown=$USERNAME:$USERNAME . .
 
 # Compile monotonic_align (TODO: not sure if I need to do this manually)
-WORKDIR /home/${USERNAME}/sgevc/monotonic_align
-RUN python setup.py build_ext --inplace
+# WORKDIR /home/${USERNAME}/sgevc/monotonic_align
+# RUN python setup.py build_ext --inplace
 
 WORKDIR /home/${USERNAME}/sgevc/
 USER $USERNAME

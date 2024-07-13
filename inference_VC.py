@@ -5,6 +5,14 @@ import os
 import json
 import math
 import torch
+
+print(torch.__version__)
+print(torch.cuda.is_available())
+print(torch.cuda.device_count())
+print(torch.cuda.get_device_name(0))
+print(torch.cuda.current_device())
+print(torch.cuda.is_initialized())
+
 from torch import nn
 from torch.nn import functional as F
 from torch.utils.data import DataLoader
@@ -23,7 +31,7 @@ import random
 import shutil
 from tqdm import tqdm
 import subprocess
-os.environ["CUDA_VISIBLE_DEVICES"] = "7"
+os.environ["CUDA_VISIBLE_DEVICES"] = str(torch.cuda.device_count())
 #os.environ["CUDA_LAUNCH_BLOCKING"] = "1"
 
 def get_text(text, hps):
@@ -83,7 +91,7 @@ def main():
             else:
                 wav_name_src = speaker + "_00000" + str(1+j)
                 choose_src = source_wav_path + wav_name_src
-            str_sid_src = d_u_s[wav_name_src]
+            str_sid_src = d_u_s[f"/data/DATA/ESD-wavs-22k/{wav_name_src}"]
             spec_src = torch.load(choose_src + ".spec.pt")
             spec_src = spec_src.unsqueeze(0)
             spec_src_lengths = torch.LongTensor([spec_src.shape[2]])
@@ -116,8 +124,8 @@ def main():
                     os.mkdir(out_emotion_VC_target)
                 if not os.path.exists(out_emotion_VC_target):
                     os.mkdir(out_target)
-                str_sid_trg = d_u_s[wav_name]
-                str_eid_trg = d_u_e[wav_name]
+                str_sid_trg = d_u_s[f"/data/DATA/ESD-wavs-22k/{wav_name}"]
+                str_eid_trg = d_u_e[f"/data/DATA/ESD-wavs-22k/{wav_name}"]
                 spec_trg =  torch.load(choose_trg + ".spec.pt")
                 spec_trg = spec_trg.unsqueeze(0)
                 spec_trg_lengths = torch.LongTensor([spec_trg.shape[2]])

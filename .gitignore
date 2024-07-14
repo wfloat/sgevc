@@ -5,3 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+
+*/build/
+
+monotonic_align/core.c

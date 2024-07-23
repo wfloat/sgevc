@@ -188,10 +188,15 @@ class TextAudioSpeakerEmotionLoader(torch.utils.data.Dataset):
 
         audiopaths_sid_text_new = []
         lengths = []
+        # print("self", self)
+        print("self.audiopaths_sid_text:",self.audiopaths_sid_text[1])
         for audiopath, sid, eid, text in self.audiopaths_sid_text:
             if self.min_text_len <= len(text) and len(text) <= self.max_text_len:
+                audiopath = "."+audiopath
                 audiopaths_sid_text_new.append([audiopath, sid, eid, text])
                 lengths.append(os.path.getsize(audiopath) // (2 * self.hop_length))
+                # print("audiopath:",audiopath)
+
         self.audiopaths_sid_text = audiopaths_sid_text_new
         self.lengths = lengths
 
@@ -208,7 +213,7 @@ class TextAudioSpeakerEmotionLoader(torch.utils.data.Dataset):
     def get_audio(self, filename):
         audio, sampling_rate = load_wav_to_torch(filename)
         if sampling_rate != self.sampling_rate:
-            raise ValueError("{} {} SR doesn't match target {} SR".format(
+            raise ValueError("{} SR doesn't match target {} SR".format(
                 sampling_rate, self.sampling_rate))
         audio_norm = audio / self.max_wav_value
         audio_norm = audio_norm.unsqueeze(0)

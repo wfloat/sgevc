@@ -9,3 +9,4 @@ __pycache__/
 */build/
 
 monotonic_align/core.c
+EmotionalSpeechDataset.zip

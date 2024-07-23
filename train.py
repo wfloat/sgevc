@@ -4,6 +4,15 @@ import argparse
 import itertools
 import math
 import torch
+
+print(torch.__version__)
+print(torch.cuda.is_available())
+print(torch.cuda.device_count())
+print(torch.cuda.get_device_name(0))
+print(torch.cuda.current_device())
+print(torch.cuda.is_initialized())
+
+
 from torch import nn, optim
 from torch.nn import functional as F
 from torch.utils.data import DataLoader
@@ -70,6 +79,10 @@ def run(rank, n_gpus, hps):
   dist.init_process_group(backend='nccl', init_method='env://', world_size=n_gpus, rank=rank)
   torch.manual_seed(hps.train.seed)
   torch.cuda.set_device(rank)
+
+  # check file path
+  # print("Training files path:", hps.data.training_files)
+  # print("data", hps.data)
   train_dataset = TextAudioSpeakerEmotionLoader(hps.data.training_files, hps.data)
   
   train_sampler = DistributedBucketSampler(

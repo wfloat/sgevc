@@ -20,6 +20,8 @@ RUN groupadd --gid $USER_GID $USERNAME \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 
+USER $USERNAME
+
 RUN mkdir -p /home/${USERNAME}/sgevc
 WORKDIR /home/${USERNAME}/sgevc
 
@@ -32,8 +34,5 @@ COPY --chown=$USERNAME:$USERNAME . .
 # Compile monotonic_align (TODO: not sure if I need to do this manually)
 # WORKDIR /home/${USERNAME}/sgevc/monotonic_align
 # RUN python setup.py build_ext --inplace
-
-WORKDIR /home/${USERNAME}/sgevc/
-USER $USERNAME
 
 CMD ["/bin/bash", "-c", "while sleep 1000; do :; done"]

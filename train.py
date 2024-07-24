@@ -46,7 +46,7 @@ from losses import (
 )
 from mel_processing import mel_spectrogram_torch, spec_to_mel_torch
 from text.symbols import symbols
-os.environ["CUDA_VISIBLE_DEVICES"] = "4"
+os.environ["CUDA_VISIBLE_DEVICES"] = str(torch.cuda.device_count())
 #os.environ["CUDA_LAUNCH_BLOCKING"] = '1'
 torch.backends.cudnn.benchmark = True
 global_step = 0

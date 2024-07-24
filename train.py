@@ -266,7 +266,8 @@ def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loade
           writer=writer,
           global_step=global_step, 
           images=image_dict,
-          scalars=scalar_dict)
+          scalars=scalar_dict,
+          audio_sampling_rate=hps.data.sampling_rate)
       if global_step % 1000==1:
         temp = torch.maximum(torch.tensor(1.0,dtype=torch.float32)*torch.exp(-ANNEAL_RATE*global_step),MIN_TEMP) 
 

@@ -93,10 +93,10 @@ def run(rank, n_gpus, hps):
       rank=rank,
       shuffle=True)
   collate_fn = TextAudioSpeakerEmotionCollate()
-  train_loader = DataLoader(train_dataset, num_workers=8, shuffle=False, pin_memory=True,collate_fn=collate_fn, batch_sampler=train_sampler)
+  train_loader = DataLoader(train_dataset, num_workers=hps.train.num_workers, shuffle=False, pin_memory=True,collate_fn=collate_fn, batch_sampler=train_sampler)
   if rank == 0:
     eval_dataset = TextAudioSpeakerEmotionLoader(hps.data.validation_files, hps.data)
-    eval_loader = DataLoader(eval_dataset, batch_size=hps.train.batch_size, shuffle=False, num_workers=8, collate_fn=collate_fn, pin_memory=True, drop_last=False)
+    eval_loader = DataLoader(eval_dataset, batch_size=hps.train.batch_size, shuffle=False, num_workers=hps.train.num_workers, collate_fn=collate_fn, pin_memory=True, drop_last=False)
 
   net_g = SynthesizerTrn(
       len(symbols),

@@ -35,4 +35,5 @@ COPY --chown=$USERNAME:$USERNAME . .
 # WORKDIR /home/${USERNAME}/sgevc/monotonic_align
 # RUN python setup.py build_ext --inplace
 
-CMD ["/bin/bash", "-c", "while sleep 1000; do :; done"]
+# CMD ["/bin/bash", "-c", "while sleep 1000; do :; done"]
+CMD ["python", "train.py", "-c", "configs/ESD_base.json", "-m", "ESD_chinese_semi_3_gamma_1.0_alpha_0.1"]

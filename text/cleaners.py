@@ -14,7 +14,19 @@ hyperparameter. Some cleaners are English-specific. You'll typically want to use
 
 import re
 from unidecode import unidecode
-#from phonemizer import phonemize
+from phonemizer import phonemize
+import time
+
+from piper_phonemize import (
+    phonemize_espeak,
+    phonemize_codepoints,
+    phoneme_ids_espeak,
+    phoneme_ids_codepoints,
+    get_codepoints_map,
+    get_espeak_map,
+    get_max_phonemes,
+    tashkeel_run,
+)
 
 
 # Regular expression matching whitespace:
@@ -105,3 +117,26 @@ def english_cleaners2(text):
   phonemes = phonemize(text, language='en-us', backend='espeak', strip=True, preserve_punctuation=True, with_stress=True)
   phonemes = collapse_whitespace(phonemes)
   return phonemes
+
+# ans = english_cleaners("It says no way! shouted Daisy.")
+# print(ans)
+
+# start_time = time.time()
+ans2 = english_cleaners2("But if you hadn't done them...")
+# end_time = time.time()
+# execution_time = end_time - start_time
+# print(f"Function took {execution_time:.6f} seconds to execute.")
+print(ans2)
+
+# print(english_cleaners2(ans))
+
+def join_phonemes(texts):
+    return ' '.join(''.join(text) for text in texts)
+
+start_time = time.time()
+ans_piper = en_phonemes = phonemize_espeak("But if you hadn't done them...", "en-us")
+end_time = time.time()
+execution_time = end_time - start_time
+print(f"Function took {execution_time:.6f} seconds to execute.")
+print(join_phonemes(ans_piper))
+

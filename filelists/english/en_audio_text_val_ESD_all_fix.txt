@@ -1,0 +1,1000 @@
+/data/DATA/ESD-wavs-22k/0011_000001.wav|10|0|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0011_000002.wav|10|0|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0011_000003.wav|10|0|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0011_000004.wav|10|0|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0011_000005.wav|10|0|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0011_000006.wav|10|0|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0011_000007.wav|10|0|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0011_000008.wav|10|0|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0011_000009.wav|10|0|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0011_000010.wav|10|0|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0011_000011.wav|10|0|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0011_000012.wav|10|0|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0011_000013.wav|10|0|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0011_000014.wav|10|0|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0011_000015.wav|10|0|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0011_000016.wav|10|0|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0011_000017.wav|10|0|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0011_000018.wav|10|0|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0011_000019.wav|10|0|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0011_000020.wav|10|0|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0011_000351.wav|10|1|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0011_000352.wav|10|1|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0011_000353.wav|10|1|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0011_000354.wav|10|1|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0011_000355.wav|10|1|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0011_000356.wav|10|1|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0011_000357.wav|10|1|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0011_000358.wav|10|1|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0011_000359.wav|10|1|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0011_000360.wav|10|1|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0011_000361.wav|10|1|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0011_000362.wav|10|1|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0011_000363.wav|10|1|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0011_000364.wav|10|1|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0011_000365.wav|10|1|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0011_000366.wav|10|1|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0011_000367.wav|10|1|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0011_000368.wav|10|1|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0011_000369.wav|10|1|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0011_000370.wav|10|1|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0011_000701.wav|10|2|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0011_000702.wav|10|2|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0011_000703.wav|10|2|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0011_000704.wav|10|2|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0011_000705.wav|10|2|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0011_000706.wav|10|2|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0011_000707.wav|10|2|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0011_000708.wav|10|2|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0011_000709.wav|10|2|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0011_000710.wav|10|2|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0011_000711.wav|10|2|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0011_000712.wav|10|2|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0011_000713.wav|10|2|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0011_000714.wav|10|2|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0011_000715.wav|10|2|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0011_000716.wav|10|2|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0011_000717.wav|10|2|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0011_000718.wav|10|2|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0011_000719.wav|10|2|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0011_000720.wav|10|2|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0011_001051.wav|10|3|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0011_001052.wav|10|3|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0011_001053.wav|10|3|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0011_001054.wav|10|3|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0011_001055.wav|10|3|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0011_001056.wav|10|3|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0011_001057.wav|10|3|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0011_001058.wav|10|3|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0011_001059.wav|10|3|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0011_001060.wav|10|3|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0011_001061.wav|10|3|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0011_001062.wav|10|3|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0011_001063.wav|10|3|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0011_001064.wav|10|3|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0011_001065.wav|10|3|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0011_001066.wav|10|3|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0011_001067.wav|10|3|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0011_001068.wav|10|3|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0011_001069.wav|10|3|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0011_001070.wav|10|3|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0011_001401.wav|10|4|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0011_001402.wav|10|4|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0011_001403.wav|10|4|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0011_001404.wav|10|4|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0011_001405.wav|10|4|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0011_001406.wav|10|4|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0011_001407.wav|10|4|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0011_001408.wav|10|4|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0011_001409.wav|10|4|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0011_001410.wav|10|4|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0011_001411.wav|10|4|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0011_001412.wav|10|4|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0011_001413.wav|10|4|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0011_001414.wav|10|4|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0011_001415.wav|10|4|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0011_001416.wav|10|4|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0011_001417.wav|10|4|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0011_001418.wav|10|4|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0011_001419.wav|10|4|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0011_001420.wav|10|4|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0012_000001.wav|11|0|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0012_000002.wav|11|0|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0012_000003.wav|11|0|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0012_000004.wav|11|0|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0012_000005.wav|11|0|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0012_000006.wav|11|0|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0012_000007.wav|11|0|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0012_000008.wav|11|0|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0012_000009.wav|11|0|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0012_000010.wav|11|0|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0012_000011.wav|11|0|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0012_000012.wav|11|0|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0012_000013.wav|11|0|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0012_000014.wav|11|0|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0012_000015.wav|11|0|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0012_000016.wav|11|0|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0012_000017.wav|11|0|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0012_000018.wav|11|0|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0012_000019.wav|11|0|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0012_000020.wav|11|0|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0012_000351.wav|11|1|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0012_000352.wav|11|1|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0012_000353.wav|11|1|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0012_000354.wav|11|1|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0012_000355.wav|11|1|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0012_000356.wav|11|1|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0012_000357.wav|11|1|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0012_000358.wav|11|1|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0012_000359.wav|11|1|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0012_000360.wav|11|1|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0012_000361.wav|11|1|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0012_000362.wav|11|1|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0012_000363.wav|11|1|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0012_000364.wav|11|1|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0012_000365.wav|11|1|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0012_000366.wav|11|1|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0012_000367.wav|11|1|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0012_000368.wav|11|1|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0012_000369.wav|11|1|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0012_000370.wav|11|1|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0012_000701.wav|11|2|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0012_000702.wav|11|2|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0012_000703.wav|11|2|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0012_000704.wav|11|2|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0012_000705.wav|11|2|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0012_000706.wav|11|2|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0012_000707.wav|11|2|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0012_000708.wav|11|2|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0012_000709.wav|11|2|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0012_000710.wav|11|2|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0012_000711.wav|11|2|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0012_000712.wav|11|2|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0012_000713.wav|11|2|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0012_000714.wav|11|2|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0012_000715.wav|11|2|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0012_000716.wav|11|2|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0012_000717.wav|11|2|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0012_000718.wav|11|2|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0012_000719.wav|11|2|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0012_000720.wav|11|2|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0012_001051.wav|11|3|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0012_001052.wav|11|3|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0012_001053.wav|11|3|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0012_001054.wav|11|3|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0012_001055.wav|11|3|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0012_001056.wav|11|3|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0012_001057.wav|11|3|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0012_001058.wav|11|3|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0012_001059.wav|11|3|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0012_001060.wav|11|3|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0012_001061.wav|11|3|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0012_001062.wav|11|3|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0012_001063.wav|11|3|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0012_001064.wav|11|3|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0012_001065.wav|11|3|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0012_001066.wav|11|3|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0012_001067.wav|11|3|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0012_001068.wav|11|3|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0012_001069.wav|11|3|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0012_001070.wav|11|3|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0012_001401.wav|11|4|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0012_001402.wav|11|4|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0012_001403.wav|11|4|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0012_001404.wav|11|4|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0012_001405.wav|11|4|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0012_001406.wav|11|4|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0012_001407.wav|11|4|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0012_001408.wav|11|4|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0012_001409.wav|11|4|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0012_001410.wav|11|4|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0012_001411.wav|11|4|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0012_001412.wav|11|4|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0012_001413.wav|11|4|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0012_001414.wav|11|4|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0012_001415.wav|11|4|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0012_001416.wav|11|4|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0012_001417.wav|11|4|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0012_001418.wav|11|4|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0012_001419.wav|11|4|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0012_001420.wav|11|4|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0013_000001.wav|12|0|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0013_000002.wav|12|0|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0013_000003.wav|12|0|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0013_000004.wav|12|0|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0013_000005.wav|12|0|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0013_000006.wav|12|0|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0013_000007.wav|12|0|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0013_000008.wav|12|0|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0013_000009.wav|12|0|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0013_000010.wav|12|0|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0013_000011.wav|12|0|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0013_000012.wav|12|0|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0013_000013.wav|12|0|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0013_000014.wav|12|0|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0013_000015.wav|12|0|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0013_000016.wav|12|0|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0013_000017.wav|12|0|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0013_000018.wav|12|0|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0013_000019.wav|12|0|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0013_000020.wav|12|0|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0013_000351.wav|12|1|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0013_000352.wav|12|1|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0013_000353.wav|12|1|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0013_000354.wav|12|1|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0013_000355.wav|12|1|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0013_000356.wav|12|1|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0013_000357.wav|12|1|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0013_000358.wav|12|1|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0013_000359.wav|12|1|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0013_000360.wav|12|1|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0013_000361.wav|12|1|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0013_000362.wav|12|1|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0013_000363.wav|12|1|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0013_000364.wav|12|1|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0013_000365.wav|12|1|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0013_000366.wav|12|1|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0013_000367.wav|12|1|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0013_000368.wav|12|1|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0013_000369.wav|12|1|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0013_000370.wav|12|1|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0013_000701.wav|12|2|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0013_000702.wav|12|2|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0013_000703.wav|12|2|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0013_000704.wav|12|2|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0013_000705.wav|12|2|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0013_000706.wav|12|2|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0013_000707.wav|12|2|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0013_000708.wav|12|2|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0013_000709.wav|12|2|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0013_000710.wav|12|2|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0013_000711.wav|12|2|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0013_000712.wav|12|2|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0013_000713.wav|12|2|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0013_000714.wav|12|2|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0013_000715.wav|12|2|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0013_000716.wav|12|2|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0013_000717.wav|12|2|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0013_000718.wav|12|2|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0013_000719.wav|12|2|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0013_000720.wav|12|2|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0013_001051.wav|12|3|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0013_001052.wav|12|3|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0013_001053.wav|12|3|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0013_001054.wav|12|3|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0013_001055.wav|12|3|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0013_001056.wav|12|3|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0013_001057.wav|12|3|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0013_001058.wav|12|3|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0013_001059.wav|12|3|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0013_001060.wav|12|3|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0013_001061.wav|12|3|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0013_001062.wav|12|3|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0013_001063.wav|12|3|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0013_001064.wav|12|3|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0013_001065.wav|12|3|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0013_001066.wav|12|3|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0013_001067.wav|12|3|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0013_001068.wav|12|3|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0013_001069.wav|12|3|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0013_001070.wav|12|3|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0013_001401.wav|12|4|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0013_001402.wav|12|4|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0013_001403.wav|12|4|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0013_001404.wav|12|4|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0013_001405.wav|12|4|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0013_001406.wav|12|4|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0013_001407.wav|12|4|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0013_001408.wav|12|4|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0013_001409.wav|12|4|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0013_001410.wav|12|4|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0013_001411.wav|12|4|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0013_001412.wav|12|4|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0013_001413.wav|12|4|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0013_001414.wav|12|4|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0013_001415.wav|12|4|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0013_001416.wav|12|4|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0013_001417.wav|12|4|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0013_001418.wav|12|4|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0013_001419.wav|12|4|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0013_001420.wav|12|4|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0014_000001.wav|13|0|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0014_000002.wav|13|0|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0014_000003.wav|13|0|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0014_000004.wav|13|0|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0014_000005.wav|13|0|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0014_000006.wav|13|0|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0014_000007.wav|13|0|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0014_000008.wav|13|0|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0014_000009.wav|13|0|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0014_000010.wav|13|0|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0014_000011.wav|13|0|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0014_000012.wav|13|0|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0014_000013.wav|13|0|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0014_000014.wav|13|0|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0014_000015.wav|13|0|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0014_000016.wav|13|0|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0014_000017.wav|13|0|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0014_000018.wav|13|0|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0014_000019.wav|13|0|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0014_000020.wav|13|0|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0014_000351.wav|13|1|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0014_000352.wav|13|1|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0014_000353.wav|13|1|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0014_000354.wav|13|1|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0014_000355.wav|13|1|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0014_000356.wav|13|1|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0014_000357.wav|13|1|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0014_000358.wav|13|1|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0014_000359.wav|13|1|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0014_000360.wav|13|1|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0014_000361.wav|13|1|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0014_000362.wav|13|1|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0014_000363.wav|13|1|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0014_000364.wav|13|1|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0014_000365.wav|13|1|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0014_000366.wav|13|1|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0014_000367.wav|13|1|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0014_000368.wav|13|1|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0014_000369.wav|13|1|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0014_000370.wav|13|1|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0014_000701.wav|13|2|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0014_000702.wav|13|2|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0014_000703.wav|13|2|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0014_000704.wav|13|2|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0014_000705.wav|13|2|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0014_000706.wav|13|2|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0014_000707.wav|13|2|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0014_000708.wav|13|2|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0014_000709.wav|13|2|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0014_000710.wav|13|2|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0014_000711.wav|13|2|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0014_000712.wav|13|2|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0014_000713.wav|13|2|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0014_000714.wav|13|2|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0014_000715.wav|13|2|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0014_000716.wav|13|2|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0014_000717.wav|13|2|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0014_000718.wav|13|2|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0014_000719.wav|13|2|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0014_000720.wav|13|2|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0014_001051.wav|13|3|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0014_001052.wav|13|3|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0014_001053.wav|13|3|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0014_001054.wav|13|3|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0014_001055.wav|13|3|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0014_001056.wav|13|3|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0014_001057.wav|13|3|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0014_001058.wav|13|3|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0014_001059.wav|13|3|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0014_001060.wav|13|3|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0014_001061.wav|13|3|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0014_001062.wav|13|3|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0014_001063.wav|13|3|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0014_001064.wav|13|3|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0014_001065.wav|13|3|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0014_001066.wav|13|3|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0014_001067.wav|13|3|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0014_001068.wav|13|3|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0014_001069.wav|13|3|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0014_001070.wav|13|3|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0014_001401.wav|13|4|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0014_001402.wav|13|4|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0014_001403.wav|13|4|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0014_001404.wav|13|4|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0014_001405.wav|13|4|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0014_001406.wav|13|4|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0014_001407.wav|13|4|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0014_001408.wav|13|4|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0014_001409.wav|13|4|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0014_001410.wav|13|4|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0014_001411.wav|13|4|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0014_001412.wav|13|4|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0014_001413.wav|13|4|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0014_001414.wav|13|4|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0014_001415.wav|13|4|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0014_001416.wav|13|4|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0014_001417.wav|13|4|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0014_001418.wav|13|4|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0014_001419.wav|13|4|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0014_001420.wav|13|4|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0015_000001.wav|14|0|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0015_000002.wav|14|0|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0015_000003.wav|14|0|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0015_000004.wav|14|0|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0015_000005.wav|14|0|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0015_000006.wav|14|0|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0015_000007.wav|14|0|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0015_000008.wav|14|0|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0015_000009.wav|14|0|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0015_000010.wav|14|0|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0015_000011.wav|14|0|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0015_000012.wav|14|0|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0015_000013.wav|14|0|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0015_000014.wav|14|0|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0015_000015.wav|14|0|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0015_000016.wav|14|0|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0015_000017.wav|14|0|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0015_000018.wav|14|0|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0015_000019.wav|14|0|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0015_000020.wav|14|0|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0015_000351.wav|14|1|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0015_000352.wav|14|1|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0015_000353.wav|14|1|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0015_000354.wav|14|1|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0015_000355.wav|14|1|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0015_000356.wav|14|1|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0015_000357.wav|14|1|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0015_000358.wav|14|1|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0015_000359.wav|14|1|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0015_000360.wav|14|1|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0015_000361.wav|14|1|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0015_000362.wav|14|1|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0015_000363.wav|14|1|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0015_000364.wav|14|1|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0015_000365.wav|14|1|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0015_000366.wav|14|1|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0015_000367.wav|14|1|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0015_000368.wav|14|1|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0015_000369.wav|14|1|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0015_000370.wav|14|1|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0015_000701.wav|14|2|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0015_000702.wav|14|2|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0015_000703.wav|14|2|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0015_000704.wav|14|2|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0015_000705.wav|14|2|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0015_000706.wav|14|2|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0015_000707.wav|14|2|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0015_000708.wav|14|2|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0015_000709.wav|14|2|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0015_000710.wav|14|2|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0015_000711.wav|14|2|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0015_000712.wav|14|2|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0015_000713.wav|14|2|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0015_000714.wav|14|2|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0015_000715.wav|14|2|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0015_000716.wav|14|2|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0015_000717.wav|14|2|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0015_000718.wav|14|2|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0015_000719.wav|14|2|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0015_000720.wav|14|2|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0015_001051.wav|14|3|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0015_001052.wav|14|3|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0015_001053.wav|14|3|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0015_001054.wav|14|3|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0015_001055.wav|14|3|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0015_001056.wav|14|3|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0015_001057.wav|14|3|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0015_001058.wav|14|3|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0015_001059.wav|14|3|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0015_001060.wav|14|3|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0015_001061.wav|14|3|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0015_001062.wav|14|3|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0015_001063.wav|14|3|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0015_001064.wav|14|3|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0015_001065.wav|14|3|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0015_001066.wav|14|3|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0015_001067.wav|14|3|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0015_001068.wav|14|3|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0015_001069.wav|14|3|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0015_001070.wav|14|3|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0015_001401.wav|14|4|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0015_001402.wav|14|4|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0015_001403.wav|14|4|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0015_001404.wav|14|4|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0015_001405.wav|14|4|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0015_001406.wav|14|4|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0015_001407.wav|14|4|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0015_001408.wav|14|4|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0015_001409.wav|14|4|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0015_001410.wav|14|4|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0015_001411.wav|14|4|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0015_001412.wav|14|4|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0015_001413.wav|14|4|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0015_001414.wav|14|4|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0015_001415.wav|14|4|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0015_001416.wav|14|4|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0015_001417.wav|14|4|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0015_001418.wav|14|4|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0015_001419.wav|14|4|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0015_001420.wav|14|4|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0016_000001.wav|15|0|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0016_000002.wav|15|0|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0016_000003.wav|15|0|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0016_000004.wav|15|0|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0016_000005.wav|15|0|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0016_000006.wav|15|0|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0016_000007.wav|15|0|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0016_000008.wav|15|0|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0016_000009.wav|15|0|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0016_000010.wav|15|0|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0016_000011.wav|15|0|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0016_000012.wav|15|0|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0016_000013.wav|15|0|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0016_000014.wav|15|0|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0016_000015.wav|15|0|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0016_000016.wav|15|0|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0016_000017.wav|15|0|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0016_000018.wav|15|0|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0016_000019.wav|15|0|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0016_000020.wav|15|0|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0016_000351.wav|15|1|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0016_000352.wav|15|1|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0016_000353.wav|15|1|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0016_000354.wav|15|1|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0016_000355.wav|15|1|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0016_000356.wav|15|1|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0016_000357.wav|15|1|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0016_000358.wav|15|1|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0016_000359.wav|15|1|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0016_000360.wav|15|1|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0016_000361.wav|15|1|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0016_000362.wav|15|1|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0016_000363.wav|15|1|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0016_000364.wav|15|1|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0016_000365.wav|15|1|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0016_000366.wav|15|1|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0016_000367.wav|15|1|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0016_000368.wav|15|1|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0016_000369.wav|15|1|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0016_000370.wav|15|1|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0016_000701.wav|15|2|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0016_000702.wav|15|2|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0016_000703.wav|15|2|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0016_000704.wav|15|2|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0016_000705.wav|15|2|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0016_000706.wav|15|2|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0016_000707.wav|15|2|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0016_000708.wav|15|2|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0016_000709.wav|15|2|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0016_000710.wav|15|2|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0016_000711.wav|15|2|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0016_000712.wav|15|2|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0016_000713.wav|15|2|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0016_000714.wav|15|2|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0016_000715.wav|15|2|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0016_000716.wav|15|2|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0016_000717.wav|15|2|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0016_000718.wav|15|2|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0016_000719.wav|15|2|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0016_000720.wav|15|2|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0016_001051.wav|15|3|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0016_001052.wav|15|3|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0016_001053.wav|15|3|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0016_001054.wav|15|3|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0016_001055.wav|15|3|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0016_001056.wav|15|3|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0016_001057.wav|15|3|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0016_001058.wav|15|3|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0016_001059.wav|15|3|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0016_001060.wav|15|3|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0016_001061.wav|15|3|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0016_001062.wav|15|3|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0016_001063.wav|15|3|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0016_001064.wav|15|3|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0016_001065.wav|15|3|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0016_001066.wav|15|3|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0016_001067.wav|15|3|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0016_001068.wav|15|3|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0016_001069.wav|15|3|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0016_001070.wav|15|3|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0016_001401.wav|15|4|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0016_001402.wav|15|4|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0016_001403.wav|15|4|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0016_001404.wav|15|4|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0016_001405.wav|15|4|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0016_001406.wav|15|4|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0016_001407.wav|15|4|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0016_001408.wav|15|4|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0016_001409.wav|15|4|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0016_001410.wav|15|4|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0016_001411.wav|15|4|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0016_001412.wav|15|4|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0016_001413.wav|15|4|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0016_001414.wav|15|4|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0016_001415.wav|15|4|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0016_001416.wav|15|4|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0016_001417.wav|15|4|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0016_001418.wav|15|4|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0016_001419.wav|15|4|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0016_001420.wav|15|4|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0017_000001.wav|16|0|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0017_000002.wav|16|0|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0017_000003.wav|16|0|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0017_000004.wav|16|0|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0017_000005.wav|16|0|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0017_000006.wav|16|0|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0017_000007.wav|16|0|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0017_000008.wav|16|0|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0017_000009.wav|16|0|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0017_000010.wav|16|0|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0017_000011.wav|16|0|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0017_000012.wav|16|0|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0017_000013.wav|16|0|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0017_000014.wav|16|0|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0017_000015.wav|16|0|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0017_000016.wav|16|0|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0017_000017.wav|16|0|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0017_000018.wav|16|0|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0017_000019.wav|16|0|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0017_000020.wav|16|0|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0017_000351.wav|16|1|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0017_000352.wav|16|1|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0017_000353.wav|16|1|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0017_000354.wav|16|1|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0017_000355.wav|16|1|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0017_000356.wav|16|1|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0017_000357.wav|16|1|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0017_000358.wav|16|1|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0017_000359.wav|16|1|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0017_000360.wav|16|1|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0017_000361.wav|16|1|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0017_000362.wav|16|1|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0017_000363.wav|16|1|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0017_000364.wav|16|1|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0017_000365.wav|16|1|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0017_000366.wav|16|1|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0017_000367.wav|16|1|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0017_000368.wav|16|1|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0017_000369.wav|16|1|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0017_000370.wav|16|1|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0017_000701.wav|16|2|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0017_000702.wav|16|2|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0017_000703.wav|16|2|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0017_000704.wav|16|2|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0017_000705.wav|16|2|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0017_000706.wav|16|2|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0017_000707.wav|16|2|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0017_000708.wav|16|2|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0017_000709.wav|16|2|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0017_000710.wav|16|2|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0017_000711.wav|16|2|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0017_000712.wav|16|2|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0017_000713.wav|16|2|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0017_000714.wav|16|2|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0017_000715.wav|16|2|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0017_000716.wav|16|2|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0017_000717.wav|16|2|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0017_000718.wav|16|2|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0017_000719.wav|16|2|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0017_000720.wav|16|2|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0017_001051.wav|16|3|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0017_001052.wav|16|3|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0017_001053.wav|16|3|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0017_001054.wav|16|3|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0017_001055.wav|16|3|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0017_001056.wav|16|3|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0017_001057.wav|16|3|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0017_001058.wav|16|3|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0017_001059.wav|16|3|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0017_001060.wav|16|3|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0017_001061.wav|16|3|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0017_001062.wav|16|3|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0017_001063.wav|16|3|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0017_001064.wav|16|3|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0017_001065.wav|16|3|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0017_001066.wav|16|3|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0017_001067.wav|16|3|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0017_001068.wav|16|3|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0017_001069.wav|16|3|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0017_001070.wav|16|3|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0017_001401.wav|16|4|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0017_001402.wav|16|4|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0017_001403.wav|16|4|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0017_001404.wav|16|4|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0017_001405.wav|16|4|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0017_001406.wav|16|4|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0017_001407.wav|16|4|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0017_001408.wav|16|4|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0017_001409.wav|16|4|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0017_001410.wav|16|4|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0017_001411.wav|16|4|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0017_001412.wav|16|4|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0017_001413.wav|16|4|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0017_001414.wav|16|4|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0017_001415.wav|16|4|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0017_001416.wav|16|4|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0017_001417.wav|16|4|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0017_001418.wav|16|4|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0017_001419.wav|16|4|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0017_001420.wav|16|4|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0018_000001.wav|17|0|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0018_000002.wav|17|0|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0018_000003.wav|17|0|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0018_000004.wav|17|0|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0018_000005.wav|17|0|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0018_000006.wav|17|0|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0018_000007.wav|17|0|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0018_000008.wav|17|0|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0018_000009.wav|17|0|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0018_000010.wav|17|0|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0018_000011.wav|17|0|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0018_000012.wav|17|0|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0018_000013.wav|17|0|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0018_000014.wav|17|0|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0018_000015.wav|17|0|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0018_000016.wav|17|0|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0018_000017.wav|17|0|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0018_000018.wav|17|0|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0018_000019.wav|17|0|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0018_000020.wav|17|0|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0018_000351.wav|17|1|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0018_000352.wav|17|1|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0018_000353.wav|17|1|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0018_000354.wav|17|1|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0018_000355.wav|17|1|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0018_000356.wav|17|1|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0018_000357.wav|17|1|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0018_000358.wav|17|1|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0018_000359.wav|17|1|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0018_000360.wav|17|1|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0018_000361.wav|17|1|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0018_000362.wav|17|1|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0018_000363.wav|17|1|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0018_000364.wav|17|1|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0018_000365.wav|17|1|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0018_000366.wav|17|1|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0018_000367.wav|17|1|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0018_000368.wav|17|1|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0018_000369.wav|17|1|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0018_000370.wav|17|1|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0018_000701.wav|17|2|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0018_000702.wav|17|2|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0018_000703.wav|17|2|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0018_000704.wav|17|2|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0018_000705.wav|17|2|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0018_000706.wav|17|2|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0018_000707.wav|17|2|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0018_000708.wav|17|2|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0018_000709.wav|17|2|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0018_000710.wav|17|2|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0018_000711.wav|17|2|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0018_000712.wav|17|2|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0018_000713.wav|17|2|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0018_000714.wav|17|2|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0018_000715.wav|17|2|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0018_000716.wav|17|2|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0018_000717.wav|17|2|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0018_000718.wav|17|2|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0018_000719.wav|17|2|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0018_000720.wav|17|2|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0018_001051.wav|17|3|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0018_001052.wav|17|3|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0018_001053.wav|17|3|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0018_001054.wav|17|3|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0018_001055.wav|17|3|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0018_001056.wav|17|3|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0018_001057.wav|17|3|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0018_001058.wav|17|3|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0018_001059.wav|17|3|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0018_001060.wav|17|3|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0018_001061.wav|17|3|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0018_001062.wav|17|3|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0018_001063.wav|17|3|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0018_001064.wav|17|3|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0018_001065.wav|17|3|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0018_001066.wav|17|3|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0018_001067.wav|17|3|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0018_001068.wav|17|3|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0018_001069.wav|17|3|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0018_001070.wav|17|3|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0018_001401.wav|17|4|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0018_001402.wav|17|4|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0018_001403.wav|17|4|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0018_001404.wav|17|4|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0018_001405.wav|17|4|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0018_001406.wav|17|4|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0018_001407.wav|17|4|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0018_001408.wav|17|4|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0018_001409.wav|17|4|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0018_001410.wav|17|4|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0018_001411.wav|17|4|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0018_001412.wav|17|4|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0018_001413.wav|17|4|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0018_001414.wav|17|4|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0018_001415.wav|17|4|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0018_001416.wav|17|4|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0018_001417.wav|17|4|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0018_001418.wav|17|4|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0018_001419.wav|17|4|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0018_001420.wav|17|4|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0019_000001.wav|18|0|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0019_000002.wav|18|0|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0019_000003.wav|18|0|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0019_000004.wav|18|0|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0019_000005.wav|18|0|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0019_000006.wav|18|0|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0019_000007.wav|18|0|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0019_000008.wav|18|0|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0019_000009.wav|18|0|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0019_000010.wav|18|0|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0019_000011.wav|18|0|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0019_000012.wav|18|0|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0019_000013.wav|18|0|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0019_000014.wav|18|0|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0019_000015.wav|18|0|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0019_000016.wav|18|0|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0019_000017.wav|18|0|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0019_000018.wav|18|0|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0019_000019.wav|18|0|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0019_000020.wav|18|0|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0019_000351.wav|18|1|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0019_000352.wav|18|1|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0019_000353.wav|18|1|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0019_000354.wav|18|1|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0019_000355.wav|18|1|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0019_000356.wav|18|1|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0019_000357.wav|18|1|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0019_000358.wav|18|1|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0019_000359.wav|18|1|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0019_000360.wav|18|1|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0019_000361.wav|18|1|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0019_000362.wav|18|1|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0019_000363.wav|18|1|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0019_000364.wav|18|1|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0019_000365.wav|18|1|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0019_000366.wav|18|1|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0019_000367.wav|18|1|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0019_000368.wav|18|1|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0019_000369.wav|18|1|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0019_000370.wav|18|1|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0019_000701.wav|18|2|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0019_000702.wav|18|2|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0019_000703.wav|18|2|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0019_000704.wav|18|2|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0019_000705.wav|18|2|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0019_000706.wav|18|2|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0019_000707.wav|18|2|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0019_000708.wav|18|2|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0019_000709.wav|18|2|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0019_000710.wav|18|2|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0019_000711.wav|18|2|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0019_000712.wav|18|2|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0019_000713.wav|18|2|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0019_000714.wav|18|2|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0019_000715.wav|18|2|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0019_000716.wav|18|2|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0019_000717.wav|18|2|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0019_000718.wav|18|2|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0019_000719.wav|18|2|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0019_000720.wav|18|2|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0019_001051.wav|18|3|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0019_001052.wav|18|3|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0019_001053.wav|18|3|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0019_001054.wav|18|3|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0019_001055.wav|18|3|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0019_001056.wav|18|3|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0019_001057.wav|18|3|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0019_001058.wav|18|3|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0019_001059.wav|18|3|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0019_001060.wav|18|3|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0019_001061.wav|18|3|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0019_001062.wav|18|3|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0019_001063.wav|18|3|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0019_001064.wav|18|3|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0019_001065.wav|18|3|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0019_001066.wav|18|3|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0019_001067.wav|18|3|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0019_001068.wav|18|3|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0019_001069.wav|18|3|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0019_001070.wav|18|3|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0019_001401.wav|18|4|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0019_001402.wav|18|4|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0019_001403.wav|18|4|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0019_001404.wav|18|4|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0019_001405.wav|18|4|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0019_001406.wav|18|4|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0019_001407.wav|18|4|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0019_001408.wav|18|4|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0019_001409.wav|18|4|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0019_001410.wav|18|4|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0019_001411.wav|18|4|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0019_001412.wav|18|4|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0019_001413.wav|18|4|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0019_001414.wav|18|4|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0019_001415.wav|18|4|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0019_001416.wav|18|4|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0019_001417.wav|18|4|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0019_001418.wav|18|4|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0019_001419.wav|18|4|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0019_001420.wav|18|4|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0020_000001.wav|19|0|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0020_000002.wav|19|0|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0020_000003.wav|19|0|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0020_000004.wav|19|0|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0020_000005.wav|19|0|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0020_000006.wav|19|0|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0020_000007.wav|19|0|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0020_000008.wav|19|0|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0020_000009.wav|19|0|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0020_000010.wav|19|0|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0020_000011.wav|19|0|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0020_000012.wav|19|0|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0020_000013.wav|19|0|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0020_000014.wav|19|0|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0020_000015.wav|19|0|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0020_000016.wav|19|0|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0020_000017.wav|19|0|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0020_000018.wav|19|0|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0020_000019.wav|19|0|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0020_000020.wav|19|0|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0020_000351.wav|19|1|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0020_000352.wav|19|1|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0020_000353.wav|19|1|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0020_000354.wav|19|1|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0020_000355.wav|19|1|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0020_000356.wav|19|1|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0020_000357.wav|19|1|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0020_000358.wav|19|1|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0020_000359.wav|19|1|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0020_000360.wav|19|1|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0020_000361.wav|19|1|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0020_000362.wav|19|1|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0020_000363.wav|19|1|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0020_000364.wav|19|1|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0020_000365.wav|19|1|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0020_000366.wav|19|1|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0020_000367.wav|19|1|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0020_000368.wav|19|1|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0020_000369.wav|19|1|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0020_000370.wav|19|1|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0020_000701.wav|19|2|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0020_000702.wav|19|2|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0020_000703.wav|19|2|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0020_000704.wav|19|2|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0020_000705.wav|19|2|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0020_000706.wav|19|2|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0020_000707.wav|19|2|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0020_000708.wav|19|2|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0020_000709.wav|19|2|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0020_000710.wav|19|2|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0020_000711.wav|19|2|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0020_000712.wav|19|2|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0020_000713.wav|19|2|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0020_000714.wav|19|2|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0020_000715.wav|19|2|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0020_000716.wav|19|2|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0020_000717.wav|19|2|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0020_000718.wav|19|2|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0020_000719.wav|19|2|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0020_000720.wav|19|2|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0020_001051.wav|19|3|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0020_001052.wav|19|3|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0020_001053.wav|19|3|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0020_001054.wav|19|3|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0020_001055.wav|19|3|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0020_001056.wav|19|3|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0020_001057.wav|19|3|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0020_001058.wav|19|3|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0020_001059.wav|19|3|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0020_001060.wav|19|3|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0020_001061.wav|19|3|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0020_001062.wav|19|3|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0020_001063.wav|19|3|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0020_001064.wav|19|3|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0020_001065.wav|19|3|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0020_001066.wav|19|3|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0020_001067.wav|19|3|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0020_001068.wav|19|3|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0020_001069.wav|19|3|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0020_001070.wav|19|3|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.
+/data/DATA/ESD-wavs-22k/0020_001401.wav|19|4|ðə nˈaɪn, ðɪ ˈɛɡz, aɪ kˈiːp.
+/data/DATA/ESD-wavs-22k/0020_001402.wav|19|4|aɪ dˈɪd ɡˌoʊ ænd mˌeɪd mˈɛni pɹˈɪzənɚz.
+/data/DATA/ESD-wavs-22k/0020_001403.wav|19|4|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.
+/data/DATA/ESD-wavs-22k/0020_001404.wav|19|4|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈɛs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt.
+/data/DATA/ESD-wavs-22k/0020_001405.wav|19|4|klˈɪɹ ðˈɛn klˈɪɹ wˈɔːɾɚ.
+/data/DATA/ESD-wavs-22k/0020_001406.wav|19|4|ˈændi, wˌʌts ðæt ɡˈaɪ ˌɪntʊ ðə ɡˈɪmbəl?
+/data/DATA/ESD-wavs-22k/0020_001407.wav|19|4|aɪm æz bˈæd æz aɪ kæn bˈiː.
+/data/DATA/ESD-wavs-22k/0020_001408.wav|19|4|ðæt wʌz hɪz tʃˈiːf θˈɔːt.
+/data/DATA/ESD-wavs-22k/0020_001409.wav|19|4|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ.
+/data/DATA/ESD-wavs-22k/0020_001410.wav|19|4|ɐ nˈɔːsɪəs dɹˈæft.
+/data/DATA/ESD-wavs-22k/0020_001411.wav|19|4|tʃˈæptɚ tˈɛn, ɐ wˈɔːɹm wˈɛlkʌm
+/data/DATA/ESD-wavs-22k/0020_001412.wav|19|4|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.
+/data/DATA/ESD-wavs-22k/0020_001413.wav|19|4|aɪ hæv bˈʌmbɹˈiːd ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz.
+/data/DATA/ESD-wavs-22k/0020_001414.wav|19|4|ˈæni, plˈiːz.plˈiːz dˈoʊnt hˈɜːt mˌiː.
+/data/DATA/ESD-wavs-22k/0020_001415.wav|19|4|pˈʊɹ tˈɑːm.nˈaʊ ɪz dˈɛd.
+/data/DATA/ESD-wavs-22k/0020_001416.wav|19|4|mˈɪstɚ.ʃˈɜːmən, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.
+/data/DATA/ESD-wavs-22k/0020_001417.wav|19|4|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən?
+/data/DATA/ESD-wavs-22k/0020_001418.wav|19|4|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ.
+/data/DATA/ESD-wavs-22k/0020_001419.wav|19|4|æt ðɪ ˈɛnd ʌv fˈoːɹ, 
+/data/DATA/ESD-wavs-22k/0020_001420.wav|19|4|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.

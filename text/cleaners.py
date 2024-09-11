@@ -14,7 +14,6 @@ hyperparameter. Some cleaners are English-specific. You'll typically want to use
 
 import re
 from unidecode import unidecode
-from phonemizer import phonemize
 import time
 
 from piper_phonemize import (
@@ -118,25 +117,15 @@ def english_cleaners2(text):
   phonemes = collapse_whitespace(phonemes)
   return phonemes
 
-# ans = english_cleaners("It says no way! shouted Daisy.")
-# print(ans)
+def english_cleaners3(text):
+  '''Pipeline for English text, including abbreviation expansion. + punctuation + stress'''
+  text = convert_to_ascii(text)
+  text = lowercase(text)
+  phonemes = phonemize_espeak(text, "en-us")
+  phonemes_flattened = [char for sentence in phonemes for char in sentence]
+  return phonemes_flattened
 
-# start_time = time.time()
-ans2 = english_cleaners2("But if you hadn't done them...")
-# end_time = time.time()
-# execution_time = end_time - start_time
-# print(f"Function took {execution_time:.6f} seconds to execute.")
-print(ans2)
-
-# print(english_cleaners2(ans))
 
 def join_phonemes(texts):
     return ' '.join(''.join(text) for text in texts)
-
-start_time = time.time()
-ans_piper = en_phonemes = phonemize_espeak("But if you hadn't done them...", "en-us")
-end_time = time.time()
-execution_time = end_time - start_time
-print(f"Function took {execution_time:.6f} seconds to execute.")
-print(join_phonemes(ans_piper))
 

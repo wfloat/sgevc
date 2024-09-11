@@ -1,6 +1,7 @@
 """ from https://github.com/keithito/tacotron """
 from text import cleaners
 from text.symbols import symbols
+from piper_phonemize import phoneme_ids_espeak
 
 
 # Mappings from symbol to numeric ID and vice versa:
@@ -18,6 +19,11 @@ def text_to_sequence(text, cleaner_names):
   '''
   sequence = []
   clean_text = _clean_text(text, cleaner_names)
+
+  if ("english_cleaners3" in cleaner_names):
+    sequence = phoneme_ids_espeak(clean_text)
+    return sequence
+
   for symbol in clean_text:
     symbol_id = _symbol_to_id[symbol]
     sequence += [symbol_id]

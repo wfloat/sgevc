@@ -1,4 +1,3 @@
-version: '3.8'
 services:
   sgevc:
     # Overrides default command so the development container keeps running until the user disconnects

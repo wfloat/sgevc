@@ -12,9 +12,9 @@
             "console": "integratedTerminal",
             "args": [
                 "-c",
-                "configs/ESD_base.json",
+                "configs/ESD_base_en.json",
                 "-m",
-                "ESD_chinese_semi_3_gamma_1.0_alpha_0.2"
+                "ESD_english_semi_3_gamma_1.0_alpha_0.2"
             ]
         }
     ]

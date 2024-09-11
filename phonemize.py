@@ -57,7 +57,7 @@ assert missing_phonemes == {"\u0000": 3}, missing_phonemes
 # assert en_phonemes == [['ð', 'ə', ' ', 't', 'w', 'ˈ', 'ɛ', 'l', 'v', ' ', 'ð', 'ɪ',
 #  ' ', 'ˈ', 'ɛ', 'ɡ', 'z', ' ', 'a', 'ɪ', ' ', 'k', 'ˈ', 'i', 'ː', 'p', '.']], en_phonemes
 
-def enPhonemes(transcripts):
+def en_phonemes(transcripts):
     en_phonemes = phonemize_espeak(transcripts, "en-us")
     return en_phonemes
 

@@ -36,22 +36,16 @@ emotions = [
 dic = {}
 
 
-with open("./data/DATA/ESD-transcripts.txt", "r") as file:
+with open("./data/DATA/ESD_transcripts_en.txt", "r") as file:
     lines = file.readlines()
 
 
 for line in lines:
     id, transcript = line.split("|")
     transcript = transcript.strip("\n")
-    res = phonemize.enPhonemes(transcript)
-    # print(id, res)
-    flat_res = [item for sublist in res for item in sublist]
-    # filtered_res = [' '.join(char for char in item if char not in unwanted_characters) for item in flat_res]
-    filtered_list = [item for item in flat_res if item]
-    res_str = "".join(filtered_list)
 
     id = int(id)
-    dic[id] = res_str
+    dic[id] = transcript
 
 sorted_results_dict = dict(sorted(dic.items()))
 

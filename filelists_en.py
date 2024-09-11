@@ -104,6 +104,6 @@ def count_non_100000_percentage(file_path):
     non_100000_percentage = (non_100000_rows / total_rows) * 100
     return non_100000_percentage
 
-# file_path = 'filelists/ch_audio_text_train_ESD_3_fix.txt'
+# file_path = 'filelists/chinese/ch_audio_text_train_ESD_3_fix.txt'
 # percentage = count_non_100000_percentage(file_path)
 # print(f"Percentage of rows without 100000 in the third column: {percentage:.2f}%")

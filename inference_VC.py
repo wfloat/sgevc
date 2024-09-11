@@ -50,7 +50,7 @@ def main():
                 **hps.model).cuda()
     _ = net_g.eval()
     _ = utils.load_checkpoint("./logs/server_training_07_25/G_20000.pth", net_g, None)
-    path = Path("./filelists/ch_audio_text_val_ESD_all_fix.txt")
+    path = Path("./filelists/chinese/ch_audio_text_val_ESD_all_fix.txt")
     with path.open('r',encoding='utf-8') as rf:
         transcriptions = [line.split('|')[-1].strip('\n') for line in rf]
     with path.open('r',encoding='utf-8') as rf:

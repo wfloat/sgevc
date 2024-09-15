@@ -77,11 +77,11 @@ def main():
     speakers = ['0011','0012','0013','0014','0015','0016','0017','0018','0019','0020']
     emotions={"angry":(351,370),"happy":(701,720),"sad":(1051,1070),"surprised":(1401,1420)} 
  
-    if not os.path.exists("./listening_test"):
-        os.mkdir("./listening_test")
-    if not os.path.exists("./listening_test/supervison_level_1"):
-        os.mkdir("./listening_test/supervison_level_1")
-    out = "./listening_test/supervison_level_1/"
+    if not os.path.exists("./listening_test/english"):
+        os.mkdir("./listening_test/english")
+    if not os.path.exists("./listening_test/english/supervison_level_1"):
+        os.mkdir("./listening_test/english/supervison_level_1")
+    out = "./listening_test/english/supervison_level_1/"
     # do emotion conversion
     for speaker_ids in speakers:
         for j in range(20):

@@ -4,3 +4,4 @@ services:
     command: /bin/bash -c "while sleep 1000; do :; done"
     volumes:
       - ./:/home/containeruser/sgevc
+      - ../.git/:/home/containeruser/.git/ # Ensure git works in the devcontainer since this is a submodule

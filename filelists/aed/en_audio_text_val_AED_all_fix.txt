@@ -1,0 +1,1125 @@
+/data/DATA/AED-wavs-22k/0000_000000.wav|0|0|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0000_000001.wav|0|0|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0000_000002.wav|0|0|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0000_000003.wav|0|0|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0000_000004.wav|0|0|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0000_000005.wav|0|0|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0000_000006.wav|0|0|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0000_000007.wav|0|0|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0000_000008.wav|0|0|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0000_000009.wav|0|0|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0000_000010.wav|0|0|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0000_000011.wav|0|0|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0000_000012.wav|0|0|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0000_000013.wav|0|0|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0000_000014.wav|0|0|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0000_000015.wav|0|0|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0000_000016.wav|0|0|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0000_000017.wav|0|0|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0000_000018.wav|0|0|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0000_000019.wav|0|0|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0000_000020.wav|0|0|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0000_000021.wav|0|0|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0000_000022.wav|0|0|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0000_000023.wav|0|0|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0000_000024.wav|0|0|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0000_000350.wav|0|1|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0000_000351.wav|0|1|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0000_000352.wav|0|1|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0000_000353.wav|0|1|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0000_000354.wav|0|1|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0000_000355.wav|0|1|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0000_000356.wav|0|1|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0000_000357.wav|0|1|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0000_000358.wav|0|1|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0000_000359.wav|0|1|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0000_000360.wav|0|1|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0000_000361.wav|0|1|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0000_000362.wav|0|1|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0000_000363.wav|0|1|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0000_000364.wav|0|1|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0000_000365.wav|0|1|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0000_000366.wav|0|1|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0000_000367.wav|0|1|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0000_000368.wav|0|1|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0000_000369.wav|0|1|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0000_000370.wav|0|1|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0000_000371.wav|0|1|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0000_000372.wav|0|1|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0000_000373.wav|0|1|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0000_000374.wav|0|1|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0000_000700.wav|0|2|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0000_000701.wav|0|2|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0000_000702.wav|0|2|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0000_000703.wav|0|2|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0000_000704.wav|0|2|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0000_000705.wav|0|2|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0000_000706.wav|0|2|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0000_000707.wav|0|2|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0000_000708.wav|0|2|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0000_000709.wav|0|2|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0000_000710.wav|0|2|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0000_000711.wav|0|2|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0000_000712.wav|0|2|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0000_000713.wav|0|2|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0000_000714.wav|0|2|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0000_000715.wav|0|2|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0000_000716.wav|0|2|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0000_000717.wav|0|2|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0000_000718.wav|0|2|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0000_000719.wav|0|2|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0000_000720.wav|0|2|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0000_000721.wav|0|2|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0000_000722.wav|0|2|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0000_000723.wav|0|2|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0000_000724.wav|0|2|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0000_001050.wav|0|3|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0000_001051.wav|0|3|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0000_001052.wav|0|3|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0000_001053.wav|0|3|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0000_001054.wav|0|3|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0000_001055.wav|0|3|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0000_001056.wav|0|3|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0000_001057.wav|0|3|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0000_001058.wav|0|3|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0000_001059.wav|0|3|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0000_001060.wav|0|3|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0000_001061.wav|0|3|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0000_001062.wav|0|3|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0000_001063.wav|0|3|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0000_001064.wav|0|3|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0000_001065.wav|0|3|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0000_001066.wav|0|3|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0000_001067.wav|0|3|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0000_001068.wav|0|3|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0000_001069.wav|0|3|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0000_001070.wav|0|3|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0000_001071.wav|0|3|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0000_001072.wav|0|3|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0000_001073.wav|0|3|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0000_001074.wav|0|3|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0000_001400.wav|0|4|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0000_001401.wav|0|4|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0000_001402.wav|0|4|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0000_001403.wav|0|4|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0000_001404.wav|0|4|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0000_001405.wav|0|4|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0000_001406.wav|0|4|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0000_001407.wav|0|4|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0000_001408.wav|0|4|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0000_001409.wav|0|4|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0000_001410.wav|0|4|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0000_001411.wav|0|4|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0000_001412.wav|0|4|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0000_001413.wav|0|4|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0000_001414.wav|0|4|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0000_001415.wav|0|4|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0000_001416.wav|0|4|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0000_001417.wav|0|4|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0000_001418.wav|0|4|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0000_001419.wav|0|4|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0000_001420.wav|0|4|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0000_001421.wav|0|4|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0000_001422.wav|0|4|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0000_001423.wav|0|4|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0000_001424.wav|0|4|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0001_000000.wav|1|0|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0001_000001.wav|1|0|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0001_000002.wav|1|0|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0001_000003.wav|1|0|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0001_000004.wav|1|0|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0001_000005.wav|1|0|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0001_000006.wav|1|0|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0001_000007.wav|1|0|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0001_000008.wav|1|0|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0001_000009.wav|1|0|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0001_000010.wav|1|0|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0001_000011.wav|1|0|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0001_000012.wav|1|0|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0001_000013.wav|1|0|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0001_000014.wav|1|0|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0001_000015.wav|1|0|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0001_000016.wav|1|0|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0001_000017.wav|1|0|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0001_000018.wav|1|0|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0001_000019.wav|1|0|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0001_000020.wav|1|0|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0001_000021.wav|1|0|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0001_000022.wav|1|0|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0001_000023.wav|1|0|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0001_000024.wav|1|0|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0001_000350.wav|1|1|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0001_000351.wav|1|1|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0001_000352.wav|1|1|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0001_000353.wav|1|1|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0001_000354.wav|1|1|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0001_000355.wav|1|1|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0001_000356.wav|1|1|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0001_000357.wav|1|1|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0001_000358.wav|1|1|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0001_000359.wav|1|1|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0001_000360.wav|1|1|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0001_000361.wav|1|1|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0001_000362.wav|1|1|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0001_000363.wav|1|1|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0001_000364.wav|1|1|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0001_000365.wav|1|1|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0001_000366.wav|1|1|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0001_000367.wav|1|1|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0001_000368.wav|1|1|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0001_000369.wav|1|1|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0001_000370.wav|1|1|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0001_000371.wav|1|1|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0001_000372.wav|1|1|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0001_000373.wav|1|1|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0001_000374.wav|1|1|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0001_000700.wav|1|2|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0001_000701.wav|1|2|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0001_000702.wav|1|2|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0001_000703.wav|1|2|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0001_000704.wav|1|2|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0001_000705.wav|1|2|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0001_000706.wav|1|2|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0001_000707.wav|1|2|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0001_000708.wav|1|2|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0001_000709.wav|1|2|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0001_000710.wav|1|2|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0001_000711.wav|1|2|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0001_000712.wav|1|2|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0001_000713.wav|1|2|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0001_000714.wav|1|2|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0001_000715.wav|1|2|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0001_000716.wav|1|2|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0001_000717.wav|1|2|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0001_000718.wav|1|2|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0001_000719.wav|1|2|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0001_000720.wav|1|2|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0001_000721.wav|1|2|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0001_000722.wav|1|2|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0001_000723.wav|1|2|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0001_000724.wav|1|2|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0001_001050.wav|1|3|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0001_001051.wav|1|3|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0001_001052.wav|1|3|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0001_001053.wav|1|3|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0001_001054.wav|1|3|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0001_001055.wav|1|3|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0001_001056.wav|1|3|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0001_001057.wav|1|3|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0001_001058.wav|1|3|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0001_001059.wav|1|3|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0001_001060.wav|1|3|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0001_001061.wav|1|3|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0001_001062.wav|1|3|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0001_001063.wav|1|3|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0001_001064.wav|1|3|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0001_001065.wav|1|3|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0001_001066.wav|1|3|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0001_001067.wav|1|3|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0001_001068.wav|1|3|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0001_001069.wav|1|3|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0001_001070.wav|1|3|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0001_001071.wav|1|3|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0001_001072.wav|1|3|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0001_001073.wav|1|3|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0001_001074.wav|1|3|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0001_001400.wav|1|4|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0001_001401.wav|1|4|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0001_001402.wav|1|4|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0001_001403.wav|1|4|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0001_001404.wav|1|4|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0001_001405.wav|1|4|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0001_001406.wav|1|4|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0001_001407.wav|1|4|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0001_001408.wav|1|4|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0001_001409.wav|1|4|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0001_001410.wav|1|4|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0001_001411.wav|1|4|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0001_001412.wav|1|4|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0001_001413.wav|1|4|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0001_001414.wav|1|4|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0001_001415.wav|1|4|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0001_001416.wav|1|4|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0001_001417.wav|1|4|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0001_001418.wav|1|4|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0001_001419.wav|1|4|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0001_001420.wav|1|4|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0001_001421.wav|1|4|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0001_001422.wav|1|4|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0001_001423.wav|1|4|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0001_001424.wav|1|4|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0002_000000.wav|2|0|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0002_000001.wav|2|0|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0002_000002.wav|2|0|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0002_000003.wav|2|0|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0002_000004.wav|2|0|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0002_000005.wav|2|0|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0002_000006.wav|2|0|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0002_000007.wav|2|0|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0002_000008.wav|2|0|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0002_000009.wav|2|0|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0002_000010.wav|2|0|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0002_000011.wav|2|0|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0002_000012.wav|2|0|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0002_000013.wav|2|0|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0002_000014.wav|2|0|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0002_000015.wav|2|0|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0002_000016.wav|2|0|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0002_000017.wav|2|0|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0002_000018.wav|2|0|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0002_000019.wav|2|0|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0002_000020.wav|2|0|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0002_000021.wav|2|0|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0002_000022.wav|2|0|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0002_000023.wav|2|0|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0002_000024.wav|2|0|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0002_000350.wav|2|1|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0002_000351.wav|2|1|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0002_000352.wav|2|1|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0002_000353.wav|2|1|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0002_000354.wav|2|1|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0002_000355.wav|2|1|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0002_000356.wav|2|1|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0002_000357.wav|2|1|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0002_000358.wav|2|1|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0002_000359.wav|2|1|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0002_000360.wav|2|1|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0002_000361.wav|2|1|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0002_000362.wav|2|1|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0002_000363.wav|2|1|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0002_000364.wav|2|1|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0002_000365.wav|2|1|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0002_000366.wav|2|1|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0002_000367.wav|2|1|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0002_000368.wav|2|1|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0002_000369.wav|2|1|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0002_000370.wav|2|1|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0002_000371.wav|2|1|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0002_000372.wav|2|1|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0002_000373.wav|2|1|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0002_000374.wav|2|1|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0002_000700.wav|2|2|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0002_000701.wav|2|2|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0002_000702.wav|2|2|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0002_000703.wav|2|2|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0002_000704.wav|2|2|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0002_000705.wav|2|2|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0002_000706.wav|2|2|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0002_000707.wav|2|2|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0002_000708.wav|2|2|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0002_000709.wav|2|2|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0002_000710.wav|2|2|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0002_000711.wav|2|2|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0002_000712.wav|2|2|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0002_000713.wav|2|2|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0002_000714.wav|2|2|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0002_000715.wav|2|2|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0002_000716.wav|2|2|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0002_000717.wav|2|2|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0002_000718.wav|2|2|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0002_000719.wav|2|2|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0002_000720.wav|2|2|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0002_000721.wav|2|2|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0002_000722.wav|2|2|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0002_000723.wav|2|2|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0002_000724.wav|2|2|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0002_001050.wav|2|3|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0002_001051.wav|2|3|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0002_001052.wav|2|3|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0002_001053.wav|2|3|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0002_001054.wav|2|3|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0002_001055.wav|2|3|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0002_001056.wav|2|3|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0002_001057.wav|2|3|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0002_001058.wav|2|3|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0002_001059.wav|2|3|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0002_001060.wav|2|3|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0002_001061.wav|2|3|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0002_001062.wav|2|3|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0002_001063.wav|2|3|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0002_001064.wav|2|3|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0002_001065.wav|2|3|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0002_001066.wav|2|3|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0002_001067.wav|2|3|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0002_001068.wav|2|3|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0002_001069.wav|2|3|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0002_001070.wav|2|3|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0002_001071.wav|2|3|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0002_001072.wav|2|3|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0002_001073.wav|2|3|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0002_001074.wav|2|3|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0002_001400.wav|2|4|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0002_001401.wav|2|4|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0002_001402.wav|2|4|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0002_001403.wav|2|4|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0002_001404.wav|2|4|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0002_001405.wav|2|4|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0002_001406.wav|2|4|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0002_001407.wav|2|4|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0002_001408.wav|2|4|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0002_001409.wav|2|4|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0002_001410.wav|2|4|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0002_001411.wav|2|4|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0002_001412.wav|2|4|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0002_001413.wav|2|4|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0002_001414.wav|2|4|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0002_001415.wav|2|4|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0002_001416.wav|2|4|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0002_001417.wav|2|4|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0002_001418.wav|2|4|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0002_001419.wav|2|4|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0002_001420.wav|2|4|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0002_001421.wav|2|4|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0002_001422.wav|2|4|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0002_001423.wav|2|4|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0002_001424.wav|2|4|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0003_000000.wav|3|0|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0003_000001.wav|3|0|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0003_000002.wav|3|0|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0003_000003.wav|3|0|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0003_000004.wav|3|0|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0003_000005.wav|3|0|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0003_000006.wav|3|0|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0003_000007.wav|3|0|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0003_000008.wav|3|0|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0003_000009.wav|3|0|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0003_000010.wav|3|0|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0003_000011.wav|3|0|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0003_000012.wav|3|0|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0003_000013.wav|3|0|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0003_000014.wav|3|0|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0003_000015.wav|3|0|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0003_000016.wav|3|0|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0003_000017.wav|3|0|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0003_000018.wav|3|0|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0003_000019.wav|3|0|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0003_000020.wav|3|0|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0003_000021.wav|3|0|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0003_000022.wav|3|0|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0003_000023.wav|3|0|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0003_000024.wav|3|0|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0003_000350.wav|3|1|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0003_000351.wav|3|1|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0003_000352.wav|3|1|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0003_000353.wav|3|1|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0003_000354.wav|3|1|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0003_000355.wav|3|1|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0003_000356.wav|3|1|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0003_000357.wav|3|1|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0003_000358.wav|3|1|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0003_000359.wav|3|1|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0003_000360.wav|3|1|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0003_000361.wav|3|1|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0003_000362.wav|3|1|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0003_000363.wav|3|1|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0003_000364.wav|3|1|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0003_000365.wav|3|1|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0003_000366.wav|3|1|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0003_000367.wav|3|1|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0003_000368.wav|3|1|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0003_000369.wav|3|1|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0003_000370.wav|3|1|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0003_000371.wav|3|1|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0003_000372.wav|3|1|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0003_000373.wav|3|1|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0003_000374.wav|3|1|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0003_000700.wav|3|2|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0003_000701.wav|3|2|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0003_000702.wav|3|2|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0003_000703.wav|3|2|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0003_000704.wav|3|2|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0003_000705.wav|3|2|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0003_000706.wav|3|2|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0003_000707.wav|3|2|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0003_000708.wav|3|2|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0003_000709.wav|3|2|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0003_000710.wav|3|2|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0003_000711.wav|3|2|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0003_000712.wav|3|2|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0003_000713.wav|3|2|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0003_000714.wav|3|2|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0003_000715.wav|3|2|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0003_000716.wav|3|2|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0003_000717.wav|3|2|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0003_000718.wav|3|2|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0003_000719.wav|3|2|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0003_000720.wav|3|2|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0003_000721.wav|3|2|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0003_000722.wav|3|2|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0003_000723.wav|3|2|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0003_000724.wav|3|2|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0003_001050.wav|3|3|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0003_001051.wav|3|3|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0003_001052.wav|3|3|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0003_001053.wav|3|3|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0003_001054.wav|3|3|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0003_001055.wav|3|3|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0003_001056.wav|3|3|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0003_001057.wav|3|3|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0003_001058.wav|3|3|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0003_001059.wav|3|3|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0003_001060.wav|3|3|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0003_001061.wav|3|3|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0003_001062.wav|3|3|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0003_001063.wav|3|3|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0003_001064.wav|3|3|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0003_001065.wav|3|3|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0003_001066.wav|3|3|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0003_001067.wav|3|3|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0003_001068.wav|3|3|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0003_001069.wav|3|3|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0003_001070.wav|3|3|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0003_001071.wav|3|3|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0003_001072.wav|3|3|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0003_001073.wav|3|3|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0003_001074.wav|3|3|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0003_001400.wav|3|4|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0003_001401.wav|3|4|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0003_001402.wav|3|4|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0003_001403.wav|3|4|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0003_001404.wav|3|4|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0003_001405.wav|3|4|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0003_001406.wav|3|4|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0003_001407.wav|3|4|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0003_001408.wav|3|4|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0003_001409.wav|3|4|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0003_001410.wav|3|4|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0003_001411.wav|3|4|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0003_001412.wav|3|4|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0003_001413.wav|3|4|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0003_001414.wav|3|4|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0003_001415.wav|3|4|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0003_001416.wav|3|4|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0003_001417.wav|3|4|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0003_001418.wav|3|4|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0003_001419.wav|3|4|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0003_001420.wav|3|4|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0003_001421.wav|3|4|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0003_001422.wav|3|4|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0003_001423.wav|3|4|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0003_001424.wav|3|4|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0004_000000.wav|4|0|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0004_000001.wav|4|0|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0004_000002.wav|4|0|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0004_000003.wav|4|0|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0004_000004.wav|4|0|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0004_000005.wav|4|0|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0004_000006.wav|4|0|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0004_000007.wav|4|0|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0004_000008.wav|4|0|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0004_000009.wav|4|0|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0004_000010.wav|4|0|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0004_000011.wav|4|0|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0004_000012.wav|4|0|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0004_000013.wav|4|0|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0004_000014.wav|4|0|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0004_000015.wav|4|0|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0004_000016.wav|4|0|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0004_000017.wav|4|0|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0004_000018.wav|4|0|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0004_000019.wav|4|0|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0004_000020.wav|4|0|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0004_000021.wav|4|0|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0004_000022.wav|4|0|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0004_000023.wav|4|0|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0004_000024.wav|4|0|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0004_000350.wav|4|1|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0004_000351.wav|4|1|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0004_000352.wav|4|1|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0004_000353.wav|4|1|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0004_000354.wav|4|1|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0004_000355.wav|4|1|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0004_000356.wav|4|1|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0004_000357.wav|4|1|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0004_000358.wav|4|1|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0004_000359.wav|4|1|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0004_000360.wav|4|1|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0004_000361.wav|4|1|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0004_000362.wav|4|1|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0004_000363.wav|4|1|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0004_000364.wav|4|1|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0004_000365.wav|4|1|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0004_000366.wav|4|1|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0004_000367.wav|4|1|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0004_000368.wav|4|1|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0004_000369.wav|4|1|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0004_000370.wav|4|1|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0004_000371.wav|4|1|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0004_000372.wav|4|1|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0004_000373.wav|4|1|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0004_000374.wav|4|1|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0004_000700.wav|4|2|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0004_000701.wav|4|2|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0004_000702.wav|4|2|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0004_000703.wav|4|2|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0004_000704.wav|4|2|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0004_000705.wav|4|2|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0004_000706.wav|4|2|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0004_000707.wav|4|2|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0004_000708.wav|4|2|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0004_000709.wav|4|2|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0004_000710.wav|4|2|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0004_000711.wav|4|2|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0004_000712.wav|4|2|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0004_000713.wav|4|2|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0004_000714.wav|4|2|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0004_000715.wav|4|2|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0004_000716.wav|4|2|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0004_000717.wav|4|2|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0004_000718.wav|4|2|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0004_000719.wav|4|2|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0004_000720.wav|4|2|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0004_000721.wav|4|2|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0004_000722.wav|4|2|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0004_000723.wav|4|2|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0004_000724.wav|4|2|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0004_001050.wav|4|3|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0004_001051.wav|4|3|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0004_001052.wav|4|3|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0004_001053.wav|4|3|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0004_001054.wav|4|3|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0004_001055.wav|4|3|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0004_001056.wav|4|3|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0004_001057.wav|4|3|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0004_001058.wav|4|3|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0004_001059.wav|4|3|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0004_001060.wav|4|3|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0004_001061.wav|4|3|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0004_001062.wav|4|3|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0004_001063.wav|4|3|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0004_001064.wav|4|3|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0004_001065.wav|4|3|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0004_001066.wav|4|3|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0004_001067.wav|4|3|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0004_001068.wav|4|3|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0004_001069.wav|4|3|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0004_001070.wav|4|3|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0004_001071.wav|4|3|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0004_001072.wav|4|3|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0004_001073.wav|4|3|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0004_001074.wav|4|3|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0004_001400.wav|4|4|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0004_001401.wav|4|4|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0004_001402.wav|4|4|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0004_001403.wav|4|4|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0004_001404.wav|4|4|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0004_001405.wav|4|4|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0004_001406.wav|4|4|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0004_001407.wav|4|4|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0004_001408.wav|4|4|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0004_001409.wav|4|4|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0004_001410.wav|4|4|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0004_001411.wav|4|4|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0004_001412.wav|4|4|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0004_001413.wav|4|4|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0004_001414.wav|4|4|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0004_001415.wav|4|4|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0004_001416.wav|4|4|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0004_001417.wav|4|4|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0004_001418.wav|4|4|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0004_001419.wav|4|4|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0004_001420.wav|4|4|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0004_001421.wav|4|4|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0004_001422.wav|4|4|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0004_001423.wav|4|4|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0004_001424.wav|4|4|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0005_000000.wav|5|0|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0005_000001.wav|5|0|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0005_000002.wav|5|0|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0005_000003.wav|5|0|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0005_000004.wav|5|0|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0005_000005.wav|5|0|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0005_000006.wav|5|0|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0005_000007.wav|5|0|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0005_000008.wav|5|0|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0005_000009.wav|5|0|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0005_000010.wav|5|0|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0005_000011.wav|5|0|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0005_000012.wav|5|0|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0005_000013.wav|5|0|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0005_000014.wav|5|0|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0005_000015.wav|5|0|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0005_000016.wav|5|0|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0005_000017.wav|5|0|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0005_000018.wav|5|0|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0005_000019.wav|5|0|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0005_000020.wav|5|0|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0005_000021.wav|5|0|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0005_000022.wav|5|0|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0005_000023.wav|5|0|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0005_000024.wav|5|0|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0005_000350.wav|5|1|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0005_000351.wav|5|1|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0005_000352.wav|5|1|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0005_000353.wav|5|1|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0005_000354.wav|5|1|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0005_000355.wav|5|1|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0005_000356.wav|5|1|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0005_000357.wav|5|1|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0005_000358.wav|5|1|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0005_000359.wav|5|1|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0005_000360.wav|5|1|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0005_000361.wav|5|1|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0005_000362.wav|5|1|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0005_000363.wav|5|1|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0005_000364.wav|5|1|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0005_000365.wav|5|1|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0005_000366.wav|5|1|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0005_000367.wav|5|1|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0005_000368.wav|5|1|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0005_000369.wav|5|1|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0005_000370.wav|5|1|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0005_000371.wav|5|1|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0005_000372.wav|5|1|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0005_000373.wav|5|1|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0005_000374.wav|5|1|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0005_000700.wav|5|2|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0005_000701.wav|5|2|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0005_000702.wav|5|2|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0005_000703.wav|5|2|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0005_000704.wav|5|2|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0005_000705.wav|5|2|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0005_000706.wav|5|2|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0005_000707.wav|5|2|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0005_000708.wav|5|2|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0005_000709.wav|5|2|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0005_000710.wav|5|2|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0005_000711.wav|5|2|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0005_000712.wav|5|2|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0005_000713.wav|5|2|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0005_000714.wav|5|2|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0005_000715.wav|5|2|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0005_000716.wav|5|2|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0005_000717.wav|5|2|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0005_000718.wav|5|2|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0005_000719.wav|5|2|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0005_000720.wav|5|2|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0005_000721.wav|5|2|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0005_000722.wav|5|2|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0005_000723.wav|5|2|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0005_000724.wav|5|2|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0005_001050.wav|5|3|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0005_001051.wav|5|3|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0005_001052.wav|5|3|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0005_001053.wav|5|3|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0005_001054.wav|5|3|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0005_001055.wav|5|3|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0005_001056.wav|5|3|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0005_001057.wav|5|3|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0005_001058.wav|5|3|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0005_001059.wav|5|3|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0005_001060.wav|5|3|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0005_001061.wav|5|3|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0005_001062.wav|5|3|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0005_001063.wav|5|3|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0005_001064.wav|5|3|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0005_001065.wav|5|3|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0005_001066.wav|5|3|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0005_001067.wav|5|3|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0005_001068.wav|5|3|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0005_001069.wav|5|3|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0005_001070.wav|5|3|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0005_001071.wav|5|3|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0005_001072.wav|5|3|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0005_001073.wav|5|3|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0005_001074.wav|5|3|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0005_001400.wav|5|4|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0005_001401.wav|5|4|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0005_001402.wav|5|4|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0005_001403.wav|5|4|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0005_001404.wav|5|4|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0005_001405.wav|5|4|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0005_001406.wav|5|4|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0005_001407.wav|5|4|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0005_001408.wav|5|4|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0005_001409.wav|5|4|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0005_001410.wav|5|4|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0005_001411.wav|5|4|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0005_001412.wav|5|4|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0005_001413.wav|5|4|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0005_001414.wav|5|4|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0005_001415.wav|5|4|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0005_001416.wav|5|4|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0005_001417.wav|5|4|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0005_001418.wav|5|4|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0005_001419.wav|5|4|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0005_001420.wav|5|4|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0005_001421.wav|5|4|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0005_001422.wav|5|4|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0005_001423.wav|5|4|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0005_001424.wav|5|4|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0006_000000.wav|6|0|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0006_000001.wav|6|0|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0006_000002.wav|6|0|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0006_000003.wav|6|0|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0006_000004.wav|6|0|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0006_000005.wav|6|0|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0006_000006.wav|6|0|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0006_000007.wav|6|0|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0006_000008.wav|6|0|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0006_000009.wav|6|0|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0006_000010.wav|6|0|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0006_000011.wav|6|0|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0006_000012.wav|6|0|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0006_000013.wav|6|0|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0006_000014.wav|6|0|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0006_000015.wav|6|0|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0006_000016.wav|6|0|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0006_000017.wav|6|0|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0006_000018.wav|6|0|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0006_000019.wav|6|0|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0006_000020.wav|6|0|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0006_000021.wav|6|0|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0006_000022.wav|6|0|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0006_000023.wav|6|0|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0006_000024.wav|6|0|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0006_000350.wav|6|1|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0006_000351.wav|6|1|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0006_000352.wav|6|1|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0006_000353.wav|6|1|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0006_000354.wav|6|1|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0006_000355.wav|6|1|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0006_000356.wav|6|1|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0006_000357.wav|6|1|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0006_000358.wav|6|1|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0006_000359.wav|6|1|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0006_000360.wav|6|1|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0006_000361.wav|6|1|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0006_000362.wav|6|1|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0006_000363.wav|6|1|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0006_000364.wav|6|1|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0006_000365.wav|6|1|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0006_000366.wav|6|1|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0006_000367.wav|6|1|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0006_000368.wav|6|1|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0006_000369.wav|6|1|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0006_000370.wav|6|1|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0006_000371.wav|6|1|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0006_000372.wav|6|1|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0006_000373.wav|6|1|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0006_000374.wav|6|1|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0006_000700.wav|6|2|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0006_000701.wav|6|2|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0006_000702.wav|6|2|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0006_000703.wav|6|2|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0006_000704.wav|6|2|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0006_000705.wav|6|2|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0006_000706.wav|6|2|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0006_000707.wav|6|2|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0006_000708.wav|6|2|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0006_000709.wav|6|2|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0006_000710.wav|6|2|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0006_000711.wav|6|2|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0006_000712.wav|6|2|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0006_000713.wav|6|2|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0006_000714.wav|6|2|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0006_000715.wav|6|2|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0006_000716.wav|6|2|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0006_000717.wav|6|2|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0006_000718.wav|6|2|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0006_000719.wav|6|2|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0006_000720.wav|6|2|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0006_000721.wav|6|2|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0006_000722.wav|6|2|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0006_000723.wav|6|2|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0006_000724.wav|6|2|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0006_001050.wav|6|3|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0006_001051.wav|6|3|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0006_001052.wav|6|3|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0006_001053.wav|6|3|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0006_001054.wav|6|3|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0006_001055.wav|6|3|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0006_001056.wav|6|3|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0006_001057.wav|6|3|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0006_001058.wav|6|3|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0006_001059.wav|6|3|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0006_001060.wav|6|3|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0006_001061.wav|6|3|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0006_001062.wav|6|3|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0006_001063.wav|6|3|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0006_001064.wav|6|3|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0006_001065.wav|6|3|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0006_001066.wav|6|3|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0006_001067.wav|6|3|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0006_001068.wav|6|3|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0006_001069.wav|6|3|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0006_001070.wav|6|3|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0006_001071.wav|6|3|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0006_001072.wav|6|3|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0006_001073.wav|6|3|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0006_001074.wav|6|3|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0006_001400.wav|6|4|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0006_001401.wav|6|4|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0006_001402.wav|6|4|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0006_001403.wav|6|4|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0006_001404.wav|6|4|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0006_001405.wav|6|4|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0006_001406.wav|6|4|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0006_001407.wav|6|4|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0006_001408.wav|6|4|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0006_001409.wav|6|4|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0006_001410.wav|6|4|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0006_001411.wav|6|4|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0006_001412.wav|6|4|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0006_001413.wav|6|4|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0006_001414.wav|6|4|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0006_001415.wav|6|4|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0006_001416.wav|6|4|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0006_001417.wav|6|4|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0006_001418.wav|6|4|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0006_001419.wav|6|4|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0006_001420.wav|6|4|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0006_001421.wav|6|4|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0006_001422.wav|6|4|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0006_001423.wav|6|4|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0006_001424.wav|6|4|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0007_000000.wav|7|0|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0007_000001.wav|7|0|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0007_000002.wav|7|0|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0007_000003.wav|7|0|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0007_000004.wav|7|0|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0007_000005.wav|7|0|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0007_000006.wav|7|0|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0007_000007.wav|7|0|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0007_000008.wav|7|0|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0007_000009.wav|7|0|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0007_000010.wav|7|0|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0007_000011.wav|7|0|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0007_000012.wav|7|0|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0007_000013.wav|7|0|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0007_000014.wav|7|0|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0007_000015.wav|7|0|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0007_000016.wav|7|0|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0007_000017.wav|7|0|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0007_000018.wav|7|0|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0007_000019.wav|7|0|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0007_000020.wav|7|0|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0007_000021.wav|7|0|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0007_000022.wav|7|0|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0007_000023.wav|7|0|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0007_000024.wav|7|0|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0007_000350.wav|7|1|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0007_000351.wav|7|1|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0007_000352.wav|7|1|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0007_000353.wav|7|1|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0007_000354.wav|7|1|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0007_000355.wav|7|1|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0007_000356.wav|7|1|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0007_000357.wav|7|1|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0007_000358.wav|7|1|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0007_000359.wav|7|1|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0007_000360.wav|7|1|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0007_000361.wav|7|1|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0007_000362.wav|7|1|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0007_000363.wav|7|1|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0007_000364.wav|7|1|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0007_000365.wav|7|1|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0007_000366.wav|7|1|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0007_000367.wav|7|1|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0007_000368.wav|7|1|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0007_000369.wav|7|1|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0007_000370.wav|7|1|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0007_000371.wav|7|1|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0007_000372.wav|7|1|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0007_000373.wav|7|1|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0007_000374.wav|7|1|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0007_000700.wav|7|2|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0007_000701.wav|7|2|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0007_000702.wav|7|2|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0007_000703.wav|7|2|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0007_000704.wav|7|2|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0007_000705.wav|7|2|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0007_000706.wav|7|2|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0007_000707.wav|7|2|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0007_000708.wav|7|2|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0007_000709.wav|7|2|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0007_000710.wav|7|2|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0007_000711.wav|7|2|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0007_000712.wav|7|2|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0007_000713.wav|7|2|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0007_000714.wav|7|2|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0007_000715.wav|7|2|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0007_000716.wav|7|2|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0007_000717.wav|7|2|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0007_000718.wav|7|2|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0007_000719.wav|7|2|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0007_000720.wav|7|2|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0007_000721.wav|7|2|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0007_000722.wav|7|2|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0007_000723.wav|7|2|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0007_000724.wav|7|2|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0007_001050.wav|7|3|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0007_001051.wav|7|3|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0007_001052.wav|7|3|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0007_001053.wav|7|3|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0007_001054.wav|7|3|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0007_001055.wav|7|3|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0007_001056.wav|7|3|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0007_001057.wav|7|3|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0007_001058.wav|7|3|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0007_001059.wav|7|3|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0007_001060.wav|7|3|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0007_001061.wav|7|3|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0007_001062.wav|7|3|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0007_001063.wav|7|3|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0007_001064.wav|7|3|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0007_001065.wav|7|3|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0007_001066.wav|7|3|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0007_001067.wav|7|3|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0007_001068.wav|7|3|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0007_001069.wav|7|3|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0007_001070.wav|7|3|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0007_001071.wav|7|3|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0007_001072.wav|7|3|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0007_001073.wav|7|3|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0007_001074.wav|7|3|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0007_001400.wav|7|4|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0007_001401.wav|7|4|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0007_001402.wav|7|4|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0007_001403.wav|7|4|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0007_001404.wav|7|4|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0007_001405.wav|7|4|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0007_001406.wav|7|4|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0007_001407.wav|7|4|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0007_001408.wav|7|4|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0007_001409.wav|7|4|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0007_001410.wav|7|4|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0007_001411.wav|7|4|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0007_001412.wav|7|4|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0007_001413.wav|7|4|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0007_001414.wav|7|4|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0007_001415.wav|7|4|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0007_001416.wav|7|4|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0007_001417.wav|7|4|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0007_001418.wav|7|4|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0007_001419.wav|7|4|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0007_001420.wav|7|4|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0007_001421.wav|7|4|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0007_001422.wav|7|4|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0007_001423.wav|7|4|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0007_001424.wav|7|4|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0008_000000.wav|8|0|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0008_000001.wav|8|0|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0008_000002.wav|8|0|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0008_000003.wav|8|0|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0008_000004.wav|8|0|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0008_000005.wav|8|0|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0008_000006.wav|8|0|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0008_000007.wav|8|0|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0008_000008.wav|8|0|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0008_000009.wav|8|0|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0008_000010.wav|8|0|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0008_000011.wav|8|0|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0008_000012.wav|8|0|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0008_000013.wav|8|0|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0008_000014.wav|8|0|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0008_000015.wav|8|0|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0008_000016.wav|8|0|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0008_000017.wav|8|0|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0008_000018.wav|8|0|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0008_000019.wav|8|0|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0008_000020.wav|8|0|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0008_000021.wav|8|0|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0008_000022.wav|8|0|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0008_000023.wav|8|0|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0008_000024.wav|8|0|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0008_000350.wav|8|1|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0008_000351.wav|8|1|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0008_000352.wav|8|1|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0008_000353.wav|8|1|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0008_000354.wav|8|1|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0008_000355.wav|8|1|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0008_000356.wav|8|1|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0008_000357.wav|8|1|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0008_000358.wav|8|1|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0008_000359.wav|8|1|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0008_000360.wav|8|1|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0008_000361.wav|8|1|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0008_000362.wav|8|1|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0008_000363.wav|8|1|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0008_000364.wav|8|1|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0008_000365.wav|8|1|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0008_000366.wav|8|1|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0008_000367.wav|8|1|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0008_000368.wav|8|1|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0008_000369.wav|8|1|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0008_000370.wav|8|1|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0008_000371.wav|8|1|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0008_000372.wav|8|1|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0008_000373.wav|8|1|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0008_000374.wav|8|1|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0008_000700.wav|8|2|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0008_000701.wav|8|2|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0008_000702.wav|8|2|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0008_000703.wav|8|2|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0008_000704.wav|8|2|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0008_000705.wav|8|2|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0008_000706.wav|8|2|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0008_000707.wav|8|2|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0008_000708.wav|8|2|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0008_000709.wav|8|2|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0008_000710.wav|8|2|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0008_000711.wav|8|2|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0008_000712.wav|8|2|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0008_000713.wav|8|2|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0008_000714.wav|8|2|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0008_000715.wav|8|2|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0008_000716.wav|8|2|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0008_000717.wav|8|2|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0008_000718.wav|8|2|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0008_000719.wav|8|2|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0008_000720.wav|8|2|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0008_000721.wav|8|2|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0008_000722.wav|8|2|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0008_000723.wav|8|2|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0008_000724.wav|8|2|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0008_001050.wav|8|3|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0008_001051.wav|8|3|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0008_001052.wav|8|3|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0008_001053.wav|8|3|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0008_001054.wav|8|3|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0008_001055.wav|8|3|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0008_001056.wav|8|3|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0008_001057.wav|8|3|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0008_001058.wav|8|3|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0008_001059.wav|8|3|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0008_001060.wav|8|3|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0008_001061.wav|8|3|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0008_001062.wav|8|3|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0008_001063.wav|8|3|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0008_001064.wav|8|3|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0008_001065.wav|8|3|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0008_001066.wav|8|3|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0008_001067.wav|8|3|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0008_001068.wav|8|3|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0008_001069.wav|8|3|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0008_001070.wav|8|3|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0008_001071.wav|8|3|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0008_001072.wav|8|3|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0008_001073.wav|8|3|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0008_001074.wav|8|3|No doubt about it the cartel had him whacked.
+/data/DATA/AED-wavs-22k/0008_001400.wav|8|4|Get in the chow line with the pregnant lady, nobody even minds if you ask for seconds.
+/data/DATA/AED-wavs-22k/0008_001401.wav|8|4|If the super-hero business ever dries up, he could get a job as a construction worker.
+/data/DATA/AED-wavs-22k/0008_001402.wav|8|4|I was always the guy who kicked the door in, 'cause I was the most aggressive one.
+/data/DATA/AED-wavs-22k/0008_001403.wav|8|4|I'm betting he gave me enough power to fast-forward you to the end of your life.
+/data/DATA/AED-wavs-22k/0008_001404.wav|8|4|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
+/data/DATA/AED-wavs-22k/0008_001405.wav|8|4|You asked me to write you a note, and now you won't tell me what's going on.
+/data/DATA/AED-wavs-22k/0008_001406.wav|8|4|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
+/data/DATA/AED-wavs-22k/0008_001407.wav|8|4|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
+/data/DATA/AED-wavs-22k/0008_001408.wav|8|4|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
+/data/DATA/AED-wavs-22k/0008_001409.wav|8|4|On the midden log below, Porro also knows and pours his all into a soulful mating call.
+/data/DATA/AED-wavs-22k/0008_001410.wav|8|4|Can't look for bad guys if I have to cut through his gamma breath to see them.
+/data/DATA/AED-wavs-22k/0008_001411.wav|8|4|But if these people knew I was using your Dial-A-Ho service, they might not understand.
+/data/DATA/AED-wavs-22k/0008_001412.wav|8|4|I figured it was an inside job, so I put a nanny cam in the locker room.
+/data/DATA/AED-wavs-22k/0008_001413.wav|8|4|Well, in that case let me raise my glass to the three luckiest men in the room.
+/data/DATA/AED-wavs-22k/0008_001414.wav|8|4|And I can't give it to my silver guy... 'cause he got busted melting' down a menorah.
+/data/DATA/AED-wavs-22k/0008_001415.wav|8|4|You, uh, you want me to come with you?
+/data/DATA/AED-wavs-22k/0008_001416.wav|8|4|Hey, don't you take that sarcastic tone with him!
+/data/DATA/AED-wavs-22k/0008_001417.wav|8|4|Well, turns out it dates back to the 19th century.
+/data/DATA/AED-wavs-22k/0008_001418.wav|8|4|I will know it's like this because of me!
+/data/DATA/AED-wavs-22k/0008_001419.wav|8|4|Sarah and I will be right by the phone.
+/data/DATA/AED-wavs-22k/0008_001420.wav|8|4|"Well, at least we know where the olive went."
+/data/DATA/AED-wavs-22k/0008_001421.wav|8|4|I do hope you change your mind about that.
+/data/DATA/AED-wavs-22k/0008_001422.wav|8|4|He left me this weird -- I don't know -- equation.
+/data/DATA/AED-wavs-22k/0008_001423.wav|8|4|They'd have more luck crossing him with a computer.
+/data/DATA/AED-wavs-22k/0008_001424.wav|8|4|No doubt about it the cartel had him whacked.

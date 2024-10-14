@@ -11,3 +11,5 @@ __pycache__/
 monotonic_align/core.c
 EmotionalSpeechDataset.zip
 Emotional\ Speech\ Dataset\ \(ESD\).zip
+Azure\ Emotion\ Dataset\ \(AED\)*.zip
+out/

@@ -116,7 +116,7 @@ with open(train_all_path, "w") as train_all, open(train_3_path, "w") as train_3,
                             f"{data_dir}000{i}_{key_emotion:06d}.wav|{i}|100000|{value}"
                         )
                         train_30.write("\n")
-            offset += 350
+            offset += len(sorted_results_dict)
 
 
 def count_non_100000_percentage(file_path):

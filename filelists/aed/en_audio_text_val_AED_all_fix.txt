@@ -4,8 +4,6 @@
 /data/DATA/AED-wavs-22k/0000_000003.wav|0|0|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0000_000004.wav|0|0|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0000_000005.wav|0|0|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0000_000006.wav|0|0|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0000_000007.wav|0|0|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0000_000008.wav|0|0|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0000_000009.wav|0|0|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0000_000010.wav|0|0|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -29,8 +27,6 @@
 /data/DATA/AED-wavs-22k/0000_000453.wav|0|1|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0000_000454.wav|0|1|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0000_000455.wav|0|1|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0000_000456.wav|0|1|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0000_000457.wav|0|1|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0000_000458.wav|0|1|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0000_000459.wav|0|1|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0000_000460.wav|0|1|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -54,8 +50,6 @@
 /data/DATA/AED-wavs-22k/0000_000903.wav|0|2|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0000_000904.wav|0|2|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0000_000905.wav|0|2|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0000_000906.wav|0|2|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0000_000907.wav|0|2|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0000_000908.wav|0|2|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0000_000909.wav|0|2|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0000_000910.wav|0|2|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -79,8 +73,6 @@
 /data/DATA/AED-wavs-22k/0000_001353.wav|0|3|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0000_001354.wav|0|3|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0000_001355.wav|0|3|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0000_001356.wav|0|3|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0000_001357.wav|0|3|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0000_001358.wav|0|3|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0000_001359.wav|0|3|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0000_001360.wav|0|3|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -104,8 +96,6 @@
 /data/DATA/AED-wavs-22k/0000_001803.wav|0|4|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0000_001804.wav|0|4|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0000_001805.wav|0|4|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0000_001806.wav|0|4|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0000_001807.wav|0|4|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0000_001808.wav|0|4|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0000_001809.wav|0|4|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0000_001810.wav|0|4|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -129,8 +119,6 @@
 /data/DATA/AED-wavs-22k/0001_000003.wav|1|0|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0001_000004.wav|1|0|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0001_000005.wav|1|0|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0001_000006.wav|1|0|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0001_000007.wav|1|0|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0001_000008.wav|1|0|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0001_000009.wav|1|0|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0001_000010.wav|1|0|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -154,8 +142,6 @@
 /data/DATA/AED-wavs-22k/0001_000453.wav|1|1|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0001_000454.wav|1|1|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0001_000455.wav|1|1|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0001_000456.wav|1|1|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0001_000457.wav|1|1|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0001_000458.wav|1|1|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0001_000459.wav|1|1|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0001_000460.wav|1|1|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -179,8 +165,6 @@
 /data/DATA/AED-wavs-22k/0001_000903.wav|1|2|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0001_000904.wav|1|2|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0001_000905.wav|1|2|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0001_000906.wav|1|2|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0001_000907.wav|1|2|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0001_000908.wav|1|2|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0001_000909.wav|1|2|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0001_000910.wav|1|2|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -204,8 +188,6 @@
 /data/DATA/AED-wavs-22k/0001_001353.wav|1|3|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0001_001354.wav|1|3|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0001_001355.wav|1|3|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0001_001356.wav|1|3|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0001_001357.wav|1|3|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0001_001358.wav|1|3|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0001_001359.wav|1|3|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0001_001360.wav|1|3|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -229,8 +211,6 @@
 /data/DATA/AED-wavs-22k/0001_001803.wav|1|4|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0001_001804.wav|1|4|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0001_001805.wav|1|4|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0001_001806.wav|1|4|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0001_001807.wav|1|4|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0001_001808.wav|1|4|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0001_001809.wav|1|4|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0001_001810.wav|1|4|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -254,8 +234,6 @@
 /data/DATA/AED-wavs-22k/0002_000003.wav|2|0|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0002_000004.wav|2|0|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0002_000005.wav|2|0|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0002_000006.wav|2|0|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0002_000007.wav|2|0|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0002_000008.wav|2|0|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0002_000009.wav|2|0|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0002_000010.wav|2|0|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -279,8 +257,6 @@
 /data/DATA/AED-wavs-22k/0002_000453.wav|2|1|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0002_000454.wav|2|1|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0002_000455.wav|2|1|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0002_000456.wav|2|1|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0002_000457.wav|2|1|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0002_000458.wav|2|1|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0002_000459.wav|2|1|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0002_000460.wav|2|1|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -304,8 +280,6 @@
 /data/DATA/AED-wavs-22k/0002_000903.wav|2|2|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0002_000904.wav|2|2|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0002_000905.wav|2|2|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0002_000906.wav|2|2|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0002_000907.wav|2|2|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0002_000908.wav|2|2|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0002_000909.wav|2|2|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0002_000910.wav|2|2|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -329,8 +303,6 @@
 /data/DATA/AED-wavs-22k/0002_001353.wav|2|3|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0002_001354.wav|2|3|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0002_001355.wav|2|3|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0002_001356.wav|2|3|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0002_001357.wav|2|3|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0002_001358.wav|2|3|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0002_001359.wav|2|3|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0002_001360.wav|2|3|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -354,8 +326,6 @@
 /data/DATA/AED-wavs-22k/0002_001803.wav|2|4|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0002_001804.wav|2|4|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0002_001805.wav|2|4|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0002_001806.wav|2|4|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0002_001807.wav|2|4|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0002_001808.wav|2|4|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0002_001809.wav|2|4|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0002_001810.wav|2|4|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -379,8 +349,6 @@
 /data/DATA/AED-wavs-22k/0003_000003.wav|3|0|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0003_000004.wav|3|0|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0003_000005.wav|3|0|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0003_000006.wav|3|0|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0003_000007.wav|3|0|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0003_000008.wav|3|0|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0003_000009.wav|3|0|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0003_000010.wav|3|0|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -404,8 +372,6 @@
 /data/DATA/AED-wavs-22k/0003_000453.wav|3|1|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0003_000454.wav|3|1|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0003_000455.wav|3|1|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0003_000456.wav|3|1|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0003_000457.wav|3|1|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0003_000458.wav|3|1|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0003_000459.wav|3|1|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0003_000460.wav|3|1|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -429,8 +395,6 @@
 /data/DATA/AED-wavs-22k/0003_000903.wav|3|2|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0003_000904.wav|3|2|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0003_000905.wav|3|2|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0003_000906.wav|3|2|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0003_000907.wav|3|2|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0003_000908.wav|3|2|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0003_000909.wav|3|2|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0003_000910.wav|3|2|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -454,8 +418,6 @@
 /data/DATA/AED-wavs-22k/0003_001353.wav|3|3|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0003_001354.wav|3|3|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0003_001355.wav|3|3|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0003_001356.wav|3|3|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0003_001357.wav|3|3|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0003_001358.wav|3|3|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0003_001359.wav|3|3|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0003_001360.wav|3|3|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -479,8 +441,6 @@
 /data/DATA/AED-wavs-22k/0003_001803.wav|3|4|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0003_001804.wav|3|4|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0003_001805.wav|3|4|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0003_001806.wav|3|4|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0003_001807.wav|3|4|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0003_001808.wav|3|4|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0003_001809.wav|3|4|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0003_001810.wav|3|4|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -504,8 +464,6 @@
 /data/DATA/AED-wavs-22k/0004_000003.wav|4|0|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0004_000004.wav|4|0|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0004_000005.wav|4|0|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0004_000006.wav|4|0|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0004_000007.wav|4|0|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0004_000008.wav|4|0|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0004_000009.wav|4|0|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0004_000010.wav|4|0|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -529,8 +487,6 @@
 /data/DATA/AED-wavs-22k/0004_000453.wav|4|1|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0004_000454.wav|4|1|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0004_000455.wav|4|1|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0004_000456.wav|4|1|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0004_000457.wav|4|1|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0004_000458.wav|4|1|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0004_000459.wav|4|1|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0004_000460.wav|4|1|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -554,8 +510,6 @@
 /data/DATA/AED-wavs-22k/0004_000903.wav|4|2|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0004_000904.wav|4|2|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0004_000905.wav|4|2|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0004_000906.wav|4|2|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0004_000907.wav|4|2|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0004_000908.wav|4|2|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0004_000909.wav|4|2|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0004_000910.wav|4|2|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -579,8 +533,6 @@
 /data/DATA/AED-wavs-22k/0004_001353.wav|4|3|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0004_001354.wav|4|3|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0004_001355.wav|4|3|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0004_001356.wav|4|3|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0004_001357.wav|4|3|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0004_001358.wav|4|3|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0004_001359.wav|4|3|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0004_001360.wav|4|3|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -604,8 +556,6 @@
 /data/DATA/AED-wavs-22k/0004_001803.wav|4|4|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0004_001804.wav|4|4|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0004_001805.wav|4|4|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0004_001806.wav|4|4|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0004_001807.wav|4|4|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0004_001808.wav|4|4|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0004_001809.wav|4|4|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0004_001810.wav|4|4|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -629,8 +579,6 @@
 /data/DATA/AED-wavs-22k/0005_000003.wav|5|0|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0005_000004.wav|5|0|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0005_000005.wav|5|0|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0005_000006.wav|5|0|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0005_000007.wav|5|0|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0005_000008.wav|5|0|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0005_000009.wav|5|0|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0005_000010.wav|5|0|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -654,8 +602,6 @@
 /data/DATA/AED-wavs-22k/0005_000453.wav|5|1|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0005_000454.wav|5|1|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0005_000455.wav|5|1|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0005_000456.wav|5|1|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0005_000457.wav|5|1|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0005_000458.wav|5|1|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0005_000459.wav|5|1|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0005_000460.wav|5|1|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -679,8 +625,6 @@
 /data/DATA/AED-wavs-22k/0005_000903.wav|5|2|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0005_000904.wav|5|2|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0005_000905.wav|5|2|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0005_000906.wav|5|2|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0005_000907.wav|5|2|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0005_000908.wav|5|2|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0005_000909.wav|5|2|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0005_000910.wav|5|2|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -704,8 +648,6 @@
 /data/DATA/AED-wavs-22k/0005_001353.wav|5|3|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0005_001354.wav|5|3|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0005_001355.wav|5|3|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0005_001356.wav|5|3|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0005_001357.wav|5|3|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0005_001358.wav|5|3|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0005_001359.wav|5|3|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0005_001360.wav|5|3|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -729,8 +671,6 @@
 /data/DATA/AED-wavs-22k/0005_001803.wav|5|4|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0005_001804.wav|5|4|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0005_001805.wav|5|4|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0005_001806.wav|5|4|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0005_001807.wav|5|4|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0005_001808.wav|5|4|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0005_001809.wav|5|4|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0005_001810.wav|5|4|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -754,8 +694,6 @@
 /data/DATA/AED-wavs-22k/0006_000003.wav|6|0|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0006_000004.wav|6|0|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0006_000005.wav|6|0|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0006_000006.wav|6|0|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0006_000007.wav|6|0|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0006_000008.wav|6|0|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0006_000009.wav|6|0|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0006_000010.wav|6|0|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -779,8 +717,6 @@
 /data/DATA/AED-wavs-22k/0006_000453.wav|6|1|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0006_000454.wav|6|1|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0006_000455.wav|6|1|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0006_000456.wav|6|1|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0006_000457.wav|6|1|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0006_000458.wav|6|1|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0006_000459.wav|6|1|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0006_000460.wav|6|1|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -804,8 +740,6 @@
 /data/DATA/AED-wavs-22k/0006_000903.wav|6|2|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0006_000904.wav|6|2|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0006_000905.wav|6|2|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0006_000906.wav|6|2|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0006_000907.wav|6|2|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0006_000908.wav|6|2|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0006_000909.wav|6|2|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0006_000910.wav|6|2|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -829,8 +763,6 @@
 /data/DATA/AED-wavs-22k/0006_001353.wav|6|3|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0006_001354.wav|6|3|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0006_001355.wav|6|3|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0006_001356.wav|6|3|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0006_001357.wav|6|3|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0006_001358.wav|6|3|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0006_001359.wav|6|3|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0006_001360.wav|6|3|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -854,8 +786,6 @@
 /data/DATA/AED-wavs-22k/0006_001803.wav|6|4|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0006_001804.wav|6|4|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0006_001805.wav|6|4|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0006_001806.wav|6|4|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0006_001807.wav|6|4|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0006_001808.wav|6|4|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0006_001809.wav|6|4|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0006_001810.wav|6|4|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -879,8 +809,6 @@
 /data/DATA/AED-wavs-22k/0007_000003.wav|7|0|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0007_000004.wav|7|0|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0007_000005.wav|7|0|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0007_000006.wav|7|0|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0007_000007.wav|7|0|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0007_000008.wav|7|0|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0007_000009.wav|7|0|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0007_000010.wav|7|0|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -904,8 +832,6 @@
 /data/DATA/AED-wavs-22k/0007_000453.wav|7|1|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0007_000454.wav|7|1|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0007_000455.wav|7|1|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0007_000456.wav|7|1|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0007_000457.wav|7|1|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0007_000458.wav|7|1|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0007_000459.wav|7|1|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0007_000460.wav|7|1|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -929,8 +855,6 @@
 /data/DATA/AED-wavs-22k/0007_000903.wav|7|2|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0007_000904.wav|7|2|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0007_000905.wav|7|2|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0007_000906.wav|7|2|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0007_000907.wav|7|2|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0007_000908.wav|7|2|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0007_000909.wav|7|2|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0007_000910.wav|7|2|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -954,8 +878,6 @@
 /data/DATA/AED-wavs-22k/0007_001353.wav|7|3|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0007_001354.wav|7|3|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0007_001355.wav|7|3|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0007_001356.wav|7|3|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0007_001357.wav|7|3|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0007_001358.wav|7|3|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0007_001359.wav|7|3|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0007_001360.wav|7|3|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -979,8 +901,6 @@
 /data/DATA/AED-wavs-22k/0007_001803.wav|7|4|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0007_001804.wav|7|4|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0007_001805.wav|7|4|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0007_001806.wav|7|4|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0007_001807.wav|7|4|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0007_001808.wav|7|4|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0007_001809.wav|7|4|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0007_001810.wav|7|4|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -1004,8 +924,6 @@
 /data/DATA/AED-wavs-22k/0008_000003.wav|8|0|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0008_000004.wav|8|0|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0008_000005.wav|8|0|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0008_000006.wav|8|0|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0008_000007.wav|8|0|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0008_000008.wav|8|0|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0008_000009.wav|8|0|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0008_000010.wav|8|0|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -1029,8 +947,6 @@
 /data/DATA/AED-wavs-22k/0008_000453.wav|8|1|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0008_000454.wav|8|1|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0008_000455.wav|8|1|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0008_000456.wav|8|1|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0008_000457.wav|8|1|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0008_000458.wav|8|1|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0008_000459.wav|8|1|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0008_000460.wav|8|1|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -1054,8 +970,6 @@
 /data/DATA/AED-wavs-22k/0008_000903.wav|8|2|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0008_000904.wav|8|2|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0008_000905.wav|8|2|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0008_000906.wav|8|2|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0008_000907.wav|8|2|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0008_000908.wav|8|2|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0008_000909.wav|8|2|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0008_000910.wav|8|2|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -1079,8 +993,6 @@
 /data/DATA/AED-wavs-22k/0008_001353.wav|8|3|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0008_001354.wav|8|3|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0008_001355.wav|8|3|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0008_001356.wav|8|3|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0008_001357.wav|8|3|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0008_001358.wav|8|3|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0008_001359.wav|8|3|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0008_001360.wav|8|3|Can't look for bad guys if I have to cut through his gamma breath to see them.
@@ -1104,8 +1016,6 @@
 /data/DATA/AED-wavs-22k/0008_001803.wav|8|4|I'm betting he gave me enough power to fast-forward you to the end of your life.
 /data/DATA/AED-wavs-22k/0008_001804.wav|8|4|Since I can hear your voice and it's snowing, the ambiance in my car has livened up.
 /data/DATA/AED-wavs-22k/0008_001805.wav|8|4|You asked me to write you a note, and now you won't tell me what's going on.
-/data/DATA/AED-wavs-22k/0008_001806.wav|8|4|Did you ever want to ask your girlfriend questions but you couldn't, because she is your girlfriend ?
-/data/DATA/AED-wavs-22k/0008_001807.wav|8|4|Your contention that what happened on Serkasta was a direct result of your training concerned us greatly.
 /data/DATA/AED-wavs-22k/0008_001808.wav|8|4|A passenger went into the restroom half an hour ago, and he's not responding when we knock.
 /data/DATA/AED-wavs-22k/0008_001809.wav|8|4|On the midden log below, Porro also knows and pours his all into a soulful mating call.
 /data/DATA/AED-wavs-22k/0008_001810.wav|8|4|Can't look for bad guys if I have to cut through his gamma breath to see them.

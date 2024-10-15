@@ -3,6 +3,8 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
+    volumes:
+      - ./:/home/containeruser/sgevc
     shm_size: '16gb'
     deploy:
       resources:

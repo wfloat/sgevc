@@ -36,13 +36,13 @@ emotions = [
     },
 ]
 
-# if os.path.exists(destination_dir):
-#     shutil.rmtree(destination_dir)
-# os.makedirs(destination_dir)
+if os.path.exists(destination_dir):
+    shutil.rmtree(destination_dir)
+os.makedirs(destination_dir)
 
-# print(f"Unzipping {zip_file_path}...")
-# with zipfile.ZipFile(zip_file_path, "r") as zip_ref:
-#     zip_ref.extractall()
+print(f"Unzipping {zip_file_path}...")
+with zipfile.ZipFile(zip_file_path, "r") as zip_ref:
+    zip_ref.extractall()
 
 print(
     f"Converting .wav files to 22kHz sample rate and copying them to {destination_dir}..."

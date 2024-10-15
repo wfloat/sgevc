@@ -9,17 +9,12 @@
 /data/DATA/AED-wavs-22k/0000_000033.wav|0|0|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0000_000034.wav|0|0|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0000_000035.wav|0|0|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0000_000036.wav|0|0|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0000_000037.wav|0|0|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0000_000038.wav|0|0|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0000_000039.wav|0|0|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0000_000040.wav|0|0|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0000_000041.wav|0|0|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0000_000042.wav|0|0|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0000_000043.wav|0|0|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0000_000044.wav|0|0|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0000_000045.wav|0|0|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0000_000046.wav|0|0|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0000_000047.wav|0|0|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0000_000048.wav|0|0|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0000_000049.wav|0|0|In the morning, if I find him still here by his own word he owes the law his life.
@@ -47,17 +42,12 @@
 /data/DATA/AED-wavs-22k/0000_000483.wav|0|1|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0000_000484.wav|0|1|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0000_000485.wav|0|1|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0000_000486.wav|0|1|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0000_000487.wav|0|1|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0000_000488.wav|0|1|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0000_000489.wav|0|1|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0000_000490.wav|0|1|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0000_000491.wav|0|1|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0000_000492.wav|0|1|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0000_000493.wav|0|1|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0000_000494.wav|0|1|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0000_000495.wav|0|1|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0000_000496.wav|0|1|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0000_000497.wav|0|1|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0000_000498.wav|0|1|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0000_000499.wav|0|1|In the morning, if I find him still here by his own word he owes the law his life.
@@ -85,17 +75,12 @@
 /data/DATA/AED-wavs-22k/0000_000933.wav|0|2|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0000_000934.wav|0|2|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0000_000935.wav|0|2|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0000_000936.wav|0|2|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0000_000937.wav|0|2|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0000_000938.wav|0|2|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0000_000939.wav|0|2|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0000_000940.wav|0|2|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0000_000941.wav|0|2|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0000_000942.wav|0|2|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0000_000943.wav|0|2|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0000_000944.wav|0|2|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0000_000945.wav|0|2|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0000_000946.wav|0|2|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0000_000947.wav|0|2|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0000_000948.wav|0|2|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0000_000949.wav|0|2|In the morning, if I find him still here by his own word he owes the law his life.
@@ -123,17 +108,12 @@
 /data/DATA/AED-wavs-22k/0000_001383.wav|0|3|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0000_001384.wav|0|3|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0000_001385.wav|0|3|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0000_001386.wav|0|3|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0000_001387.wav|0|3|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0000_001388.wav|0|3|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0000_001389.wav|0|3|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0000_001390.wav|0|3|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0000_001391.wav|0|3|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0000_001392.wav|0|3|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0000_001393.wav|0|3|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0000_001394.wav|0|3|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0000_001395.wav|0|3|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0000_001396.wav|0|3|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0000_001397.wav|0|3|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0000_001398.wav|0|3|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0000_001399.wav|0|3|In the morning, if I find him still here by his own word he owes the law his life.
@@ -161,17 +141,12 @@
 /data/DATA/AED-wavs-22k/0000_001833.wav|0|4|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0000_001834.wav|0|4|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0000_001835.wav|0|4|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0000_001836.wav|0|4|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0000_001837.wav|0|4|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0000_001838.wav|0|4|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0000_001839.wav|0|4|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0000_001840.wav|0|4|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0000_001841.wav|0|4|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0000_001842.wav|0|4|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0000_001843.wav|0|4|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0000_001844.wav|0|4|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0000_001845.wav|0|4|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0000_001846.wav|0|4|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0000_001847.wav|0|4|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0000_001848.wav|0|4|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0000_001849.wav|0|4|In the morning, if I find him still here by his own word he owes the law his life.
@@ -199,17 +174,12 @@
 /data/DATA/AED-wavs-22k/0001_000033.wav|1|0|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0001_000034.wav|1|0|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0001_000035.wav|1|0|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0001_000036.wav|1|0|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0001_000037.wav|1|0|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0001_000038.wav|1|0|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0001_000039.wav|1|0|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0001_000040.wav|1|0|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0001_000041.wav|1|0|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0001_000042.wav|1|0|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0001_000043.wav|1|0|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0001_000044.wav|1|0|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0001_000045.wav|1|0|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0001_000046.wav|1|0|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0001_000047.wav|1|0|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0001_000048.wav|1|0|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0001_000049.wav|1|0|In the morning, if I find him still here by his own word he owes the law his life.
@@ -237,17 +207,12 @@
 /data/DATA/AED-wavs-22k/0001_000483.wav|1|1|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0001_000484.wav|1|1|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0001_000485.wav|1|1|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0001_000486.wav|1|1|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0001_000487.wav|1|1|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0001_000488.wav|1|1|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0001_000489.wav|1|1|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0001_000490.wav|1|1|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0001_000491.wav|1|1|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0001_000492.wav|1|1|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0001_000493.wav|1|1|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0001_000494.wav|1|1|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0001_000495.wav|1|1|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0001_000496.wav|1|1|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0001_000497.wav|1|1|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0001_000498.wav|1|1|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0001_000499.wav|1|1|In the morning, if I find him still here by his own word he owes the law his life.
@@ -275,17 +240,12 @@
 /data/DATA/AED-wavs-22k/0001_000933.wav|1|2|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0001_000934.wav|1|2|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0001_000935.wav|1|2|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0001_000936.wav|1|2|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0001_000937.wav|1|2|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0001_000938.wav|1|2|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0001_000939.wav|1|2|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0001_000940.wav|1|2|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0001_000941.wav|1|2|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0001_000942.wav|1|2|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0001_000943.wav|1|2|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0001_000944.wav|1|2|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0001_000945.wav|1|2|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0001_000946.wav|1|2|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0001_000947.wav|1|2|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0001_000948.wav|1|2|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0001_000949.wav|1|2|In the morning, if I find him still here by his own word he owes the law his life.
@@ -313,17 +273,12 @@
 /data/DATA/AED-wavs-22k/0001_001383.wav|1|3|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0001_001384.wav|1|3|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0001_001385.wav|1|3|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0001_001386.wav|1|3|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0001_001387.wav|1|3|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0001_001388.wav|1|3|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0001_001389.wav|1|3|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0001_001390.wav|1|3|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0001_001391.wav|1|3|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0001_001392.wav|1|3|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0001_001393.wav|1|3|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0001_001394.wav|1|3|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0001_001395.wav|1|3|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0001_001396.wav|1|3|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0001_001397.wav|1|3|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0001_001398.wav|1|3|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0001_001399.wav|1|3|In the morning, if I find him still here by his own word he owes the law his life.
@@ -351,17 +306,12 @@
 /data/DATA/AED-wavs-22k/0001_001833.wav|1|4|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0001_001834.wav|1|4|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0001_001835.wav|1|4|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0001_001836.wav|1|4|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0001_001837.wav|1|4|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0001_001838.wav|1|4|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0001_001839.wav|1|4|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0001_001840.wav|1|4|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0001_001841.wav|1|4|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0001_001842.wav|1|4|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0001_001843.wav|1|4|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0001_001844.wav|1|4|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0001_001845.wav|1|4|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0001_001846.wav|1|4|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0001_001847.wav|1|4|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0001_001848.wav|1|4|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0001_001849.wav|1|4|In the morning, if I find him still here by his own word he owes the law his life.
@@ -389,17 +339,12 @@
 /data/DATA/AED-wavs-22k/0002_000033.wav|2|0|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0002_000034.wav|2|0|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0002_000035.wav|2|0|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0002_000036.wav|2|0|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0002_000037.wav|2|0|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0002_000038.wav|2|0|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0002_000039.wav|2|0|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0002_000040.wav|2|0|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0002_000041.wav|2|0|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0002_000042.wav|2|0|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0002_000043.wav|2|0|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0002_000044.wav|2|0|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0002_000045.wav|2|0|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0002_000046.wav|2|0|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0002_000047.wav|2|0|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0002_000048.wav|2|0|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0002_000049.wav|2|0|In the morning, if I find him still here by his own word he owes the law his life.
@@ -427,17 +372,12 @@
 /data/DATA/AED-wavs-22k/0002_000483.wav|2|1|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0002_000484.wav|2|1|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0002_000485.wav|2|1|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0002_000486.wav|2|1|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0002_000487.wav|2|1|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0002_000488.wav|2|1|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0002_000489.wav|2|1|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0002_000490.wav|2|1|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0002_000491.wav|2|1|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0002_000492.wav|2|1|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0002_000493.wav|2|1|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0002_000494.wav|2|1|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0002_000495.wav|2|1|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0002_000496.wav|2|1|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0002_000497.wav|2|1|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0002_000498.wav|2|1|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0002_000499.wav|2|1|In the morning, if I find him still here by his own word he owes the law his life.
@@ -465,17 +405,12 @@
 /data/DATA/AED-wavs-22k/0002_000933.wav|2|2|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0002_000934.wav|2|2|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0002_000935.wav|2|2|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0002_000936.wav|2|2|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0002_000937.wav|2|2|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0002_000938.wav|2|2|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0002_000939.wav|2|2|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0002_000940.wav|2|2|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0002_000941.wav|2|2|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0002_000942.wav|2|2|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0002_000943.wav|2|2|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0002_000944.wav|2|2|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0002_000945.wav|2|2|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0002_000946.wav|2|2|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0002_000947.wav|2|2|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0002_000948.wav|2|2|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0002_000949.wav|2|2|In the morning, if I find him still here by his own word he owes the law his life.
@@ -503,17 +438,12 @@
 /data/DATA/AED-wavs-22k/0002_001383.wav|2|3|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0002_001384.wav|2|3|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0002_001385.wav|2|3|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0002_001386.wav|2|3|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0002_001387.wav|2|3|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0002_001388.wav|2|3|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0002_001389.wav|2|3|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0002_001390.wav|2|3|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0002_001391.wav|2|3|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0002_001392.wav|2|3|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0002_001393.wav|2|3|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0002_001394.wav|2|3|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0002_001395.wav|2|3|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0002_001396.wav|2|3|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0002_001397.wav|2|3|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0002_001398.wav|2|3|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0002_001399.wav|2|3|In the morning, if I find him still here by his own word he owes the law his life.
@@ -541,17 +471,12 @@
 /data/DATA/AED-wavs-22k/0002_001833.wav|2|4|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0002_001834.wav|2|4|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0002_001835.wav|2|4|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0002_001836.wav|2|4|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0002_001837.wav|2|4|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0002_001838.wav|2|4|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0002_001839.wav|2|4|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0002_001840.wav|2|4|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0002_001841.wav|2|4|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0002_001842.wav|2|4|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0002_001843.wav|2|4|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0002_001844.wav|2|4|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0002_001845.wav|2|4|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0002_001846.wav|2|4|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0002_001847.wav|2|4|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0002_001848.wav|2|4|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0002_001849.wav|2|4|In the morning, if I find him still here by his own word he owes the law his life.
@@ -579,17 +504,12 @@
 /data/DATA/AED-wavs-22k/0003_000033.wav|3|0|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0003_000034.wav|3|0|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0003_000035.wav|3|0|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0003_000036.wav|3|0|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0003_000037.wav|3|0|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0003_000038.wav|3|0|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0003_000039.wav|3|0|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0003_000040.wav|3|0|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0003_000041.wav|3|0|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0003_000042.wav|3|0|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0003_000043.wav|3|0|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0003_000044.wav|3|0|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0003_000045.wav|3|0|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0003_000046.wav|3|0|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0003_000047.wav|3|0|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0003_000048.wav|3|0|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0003_000049.wav|3|0|In the morning, if I find him still here by his own word he owes the law his life.
@@ -617,17 +537,12 @@
 /data/DATA/AED-wavs-22k/0003_000483.wav|3|1|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0003_000484.wav|3|1|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0003_000485.wav|3|1|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0003_000486.wav|3|1|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0003_000487.wav|3|1|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0003_000488.wav|3|1|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0003_000489.wav|3|1|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0003_000490.wav|3|1|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0003_000491.wav|3|1|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0003_000492.wav|3|1|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0003_000493.wav|3|1|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0003_000494.wav|3|1|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0003_000495.wav|3|1|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0003_000496.wav|3|1|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0003_000497.wav|3|1|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0003_000498.wav|3|1|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0003_000499.wav|3|1|In the morning, if I find him still here by his own word he owes the law his life.
@@ -655,17 +570,12 @@
 /data/DATA/AED-wavs-22k/0003_000933.wav|3|2|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0003_000934.wav|3|2|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0003_000935.wav|3|2|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0003_000936.wav|3|2|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0003_000937.wav|3|2|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0003_000938.wav|3|2|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0003_000939.wav|3|2|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0003_000940.wav|3|2|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0003_000941.wav|3|2|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0003_000942.wav|3|2|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0003_000943.wav|3|2|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0003_000944.wav|3|2|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0003_000945.wav|3|2|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0003_000946.wav|3|2|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0003_000947.wav|3|2|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0003_000948.wav|3|2|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0003_000949.wav|3|2|In the morning, if I find him still here by his own word he owes the law his life.
@@ -693,17 +603,12 @@
 /data/DATA/AED-wavs-22k/0003_001383.wav|3|3|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0003_001384.wav|3|3|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0003_001385.wav|3|3|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0003_001386.wav|3|3|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0003_001387.wav|3|3|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0003_001388.wav|3|3|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0003_001389.wav|3|3|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0003_001390.wav|3|3|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0003_001391.wav|3|3|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0003_001392.wav|3|3|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0003_001393.wav|3|3|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0003_001394.wav|3|3|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0003_001395.wav|3|3|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0003_001396.wav|3|3|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0003_001397.wav|3|3|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0003_001398.wav|3|3|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0003_001399.wav|3|3|In the morning, if I find him still here by his own word he owes the law his life.
@@ -731,17 +636,12 @@
 /data/DATA/AED-wavs-22k/0003_001833.wav|3|4|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0003_001834.wav|3|4|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0003_001835.wav|3|4|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0003_001836.wav|3|4|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0003_001837.wav|3|4|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0003_001838.wav|3|4|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0003_001839.wav|3|4|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0003_001840.wav|3|4|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0003_001841.wav|3|4|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0003_001842.wav|3|4|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0003_001843.wav|3|4|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0003_001844.wav|3|4|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0003_001845.wav|3|4|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0003_001846.wav|3|4|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0003_001847.wav|3|4|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0003_001848.wav|3|4|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0003_001849.wav|3|4|In the morning, if I find him still here by his own word he owes the law his life.
@@ -769,17 +669,12 @@
 /data/DATA/AED-wavs-22k/0004_000033.wav|4|0|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0004_000034.wav|4|0|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0004_000035.wav|4|0|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0004_000036.wav|4|0|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0004_000037.wav|4|0|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0004_000038.wav|4|0|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0004_000039.wav|4|0|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0004_000040.wav|4|0|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0004_000041.wav|4|0|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0004_000042.wav|4|0|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0004_000043.wav|4|0|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0004_000044.wav|4|0|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0004_000045.wav|4|0|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0004_000046.wav|4|0|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0004_000047.wav|4|0|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0004_000048.wav|4|0|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0004_000049.wav|4|0|In the morning, if I find him still here by his own word he owes the law his life.
@@ -807,17 +702,12 @@
 /data/DATA/AED-wavs-22k/0004_000483.wav|4|1|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0004_000484.wav|4|1|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0004_000485.wav|4|1|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0004_000486.wav|4|1|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0004_000487.wav|4|1|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0004_000488.wav|4|1|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0004_000489.wav|4|1|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0004_000490.wav|4|1|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0004_000491.wav|4|1|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0004_000492.wav|4|1|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0004_000493.wav|4|1|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0004_000494.wav|4|1|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0004_000495.wav|4|1|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0004_000496.wav|4|1|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0004_000497.wav|4|1|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0004_000498.wav|4|1|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0004_000499.wav|4|1|In the morning, if I find him still here by his own word he owes the law his life.
@@ -845,17 +735,12 @@
 /data/DATA/AED-wavs-22k/0004_000933.wav|4|2|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0004_000934.wav|4|2|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0004_000935.wav|4|2|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0004_000936.wav|4|2|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0004_000937.wav|4|2|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0004_000938.wav|4|2|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0004_000939.wav|4|2|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0004_000940.wav|4|2|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0004_000941.wav|4|2|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0004_000942.wav|4|2|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0004_000943.wav|4|2|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0004_000944.wav|4|2|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0004_000945.wav|4|2|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0004_000946.wav|4|2|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0004_000947.wav|4|2|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0004_000948.wav|4|2|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0004_000949.wav|4|2|In the morning, if I find him still here by his own word he owes the law his life.
@@ -883,17 +768,12 @@
 /data/DATA/AED-wavs-22k/0004_001383.wav|4|3|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0004_001384.wav|4|3|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0004_001385.wav|4|3|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0004_001386.wav|4|3|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0004_001387.wav|4|3|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0004_001388.wav|4|3|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0004_001389.wav|4|3|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0004_001390.wav|4|3|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0004_001391.wav|4|3|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0004_001392.wav|4|3|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0004_001393.wav|4|3|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0004_001394.wav|4|3|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0004_001395.wav|4|3|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0004_001396.wav|4|3|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0004_001397.wav|4|3|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0004_001398.wav|4|3|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0004_001399.wav|4|3|In the morning, if I find him still here by his own word he owes the law his life.
@@ -921,17 +801,12 @@
 /data/DATA/AED-wavs-22k/0004_001833.wav|4|4|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0004_001834.wav|4|4|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0004_001835.wav|4|4|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0004_001836.wav|4|4|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0004_001837.wav|4|4|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0004_001838.wav|4|4|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0004_001839.wav|4|4|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0004_001840.wav|4|4|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0004_001841.wav|4|4|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0004_001842.wav|4|4|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0004_001843.wav|4|4|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0004_001844.wav|4|4|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0004_001845.wav|4|4|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0004_001846.wav|4|4|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0004_001847.wav|4|4|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0004_001848.wav|4|4|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0004_001849.wav|4|4|In the morning, if I find him still here by his own word he owes the law his life.
@@ -959,17 +834,12 @@
 /data/DATA/AED-wavs-22k/0005_000033.wav|5|0|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0005_000034.wav|5|0|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0005_000035.wav|5|0|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0005_000036.wav|5|0|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0005_000037.wav|5|0|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0005_000038.wav|5|0|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0005_000039.wav|5|0|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0005_000040.wav|5|0|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0005_000041.wav|5|0|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0005_000042.wav|5|0|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0005_000043.wav|5|0|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0005_000044.wav|5|0|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0005_000045.wav|5|0|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0005_000046.wav|5|0|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0005_000047.wav|5|0|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0005_000048.wav|5|0|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0005_000049.wav|5|0|In the morning, if I find him still here by his own word he owes the law his life.
@@ -997,17 +867,12 @@
 /data/DATA/AED-wavs-22k/0005_000483.wav|5|1|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0005_000484.wav|5|1|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0005_000485.wav|5|1|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0005_000486.wav|5|1|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0005_000487.wav|5|1|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0005_000488.wav|5|1|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0005_000489.wav|5|1|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0005_000490.wav|5|1|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0005_000491.wav|5|1|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0005_000492.wav|5|1|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0005_000493.wav|5|1|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0005_000494.wav|5|1|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0005_000495.wav|5|1|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0005_000496.wav|5|1|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0005_000497.wav|5|1|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0005_000498.wav|5|1|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0005_000499.wav|5|1|In the morning, if I find him still here by his own word he owes the law his life.
@@ -1035,17 +900,12 @@
 /data/DATA/AED-wavs-22k/0005_000933.wav|5|2|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0005_000934.wav|5|2|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0005_000935.wav|5|2|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0005_000936.wav|5|2|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0005_000937.wav|5|2|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0005_000938.wav|5|2|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0005_000939.wav|5|2|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0005_000940.wav|5|2|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0005_000941.wav|5|2|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0005_000942.wav|5|2|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0005_000943.wav|5|2|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0005_000944.wav|5|2|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0005_000945.wav|5|2|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0005_000946.wav|5|2|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0005_000947.wav|5|2|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0005_000948.wav|5|2|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0005_000949.wav|5|2|In the morning, if I find him still here by his own word he owes the law his life.
@@ -1073,17 +933,12 @@
 /data/DATA/AED-wavs-22k/0005_001383.wav|5|3|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0005_001384.wav|5|3|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0005_001385.wav|5|3|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0005_001386.wav|5|3|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0005_001387.wav|5|3|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0005_001388.wav|5|3|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0005_001389.wav|5|3|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0005_001390.wav|5|3|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0005_001391.wav|5|3|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0005_001392.wav|5|3|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0005_001393.wav|5|3|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0005_001394.wav|5|3|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0005_001395.wav|5|3|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0005_001396.wav|5|3|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0005_001397.wav|5|3|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0005_001398.wav|5|3|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0005_001399.wav|5|3|In the morning, if I find him still here by his own word he owes the law his life.
@@ -1111,17 +966,12 @@
 /data/DATA/AED-wavs-22k/0005_001833.wav|5|4|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0005_001834.wav|5|4|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0005_001835.wav|5|4|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0005_001836.wav|5|4|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0005_001837.wav|5|4|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0005_001838.wav|5|4|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0005_001839.wav|5|4|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0005_001840.wav|5|4|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0005_001841.wav|5|4|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0005_001842.wav|5|4|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0005_001843.wav|5|4|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0005_001844.wav|5|4|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0005_001845.wav|5|4|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0005_001846.wav|5|4|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0005_001847.wav|5|4|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0005_001848.wav|5|4|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0005_001849.wav|5|4|In the morning, if I find him still here by his own word he owes the law his life.
@@ -1149,17 +999,12 @@
 /data/DATA/AED-wavs-22k/0006_000033.wav|6|0|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0006_000034.wav|6|0|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0006_000035.wav|6|0|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0006_000036.wav|6|0|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0006_000037.wav|6|0|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0006_000038.wav|6|0|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0006_000039.wav|6|0|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0006_000040.wav|6|0|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0006_000041.wav|6|0|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0006_000042.wav|6|0|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0006_000043.wav|6|0|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0006_000044.wav|6|0|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0006_000045.wav|6|0|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0006_000046.wav|6|0|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0006_000047.wav|6|0|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0006_000048.wav|6|0|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0006_000049.wav|6|0|In the morning, if I find him still here by his own word he owes the law his life.
@@ -1187,17 +1032,12 @@
 /data/DATA/AED-wavs-22k/0006_000483.wav|6|1|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0006_000484.wav|6|1|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0006_000485.wav|6|1|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0006_000486.wav|6|1|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0006_000487.wav|6|1|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0006_000488.wav|6|1|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0006_000489.wav|6|1|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0006_000490.wav|6|1|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0006_000491.wav|6|1|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0006_000492.wav|6|1|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0006_000493.wav|6|1|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0006_000494.wav|6|1|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0006_000495.wav|6|1|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0006_000496.wav|6|1|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0006_000497.wav|6|1|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0006_000498.wav|6|1|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0006_000499.wav|6|1|In the morning, if I find him still here by his own word he owes the law his life.
@@ -1225,17 +1065,12 @@
 /data/DATA/AED-wavs-22k/0006_000933.wav|6|2|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0006_000934.wav|6|2|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0006_000935.wav|6|2|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0006_000936.wav|6|2|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0006_000937.wav|6|2|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0006_000938.wav|6|2|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0006_000939.wav|6|2|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0006_000940.wav|6|2|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0006_000941.wav|6|2|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0006_000942.wav|6|2|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0006_000943.wav|6|2|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0006_000944.wav|6|2|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0006_000945.wav|6|2|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0006_000946.wav|6|2|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0006_000947.wav|6|2|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0006_000948.wav|6|2|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0006_000949.wav|6|2|In the morning, if I find him still here by his own word he owes the law his life.
@@ -1263,17 +1098,12 @@
 /data/DATA/AED-wavs-22k/0006_001383.wav|6|3|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0006_001384.wav|6|3|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0006_001385.wav|6|3|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0006_001386.wav|6|3|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0006_001387.wav|6|3|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0006_001388.wav|6|3|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0006_001389.wav|6|3|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0006_001390.wav|6|3|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0006_001391.wav|6|3|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0006_001392.wav|6|3|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0006_001393.wav|6|3|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0006_001394.wav|6|3|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0006_001395.wav|6|3|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0006_001396.wav|6|3|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0006_001397.wav|6|3|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0006_001398.wav|6|3|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0006_001399.wav|6|3|In the morning, if I find him still here by his own word he owes the law his life.
@@ -1301,17 +1131,12 @@
 /data/DATA/AED-wavs-22k/0006_001833.wav|6|4|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0006_001834.wav|6|4|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0006_001835.wav|6|4|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0006_001836.wav|6|4|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0006_001837.wav|6|4|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0006_001838.wav|6|4|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0006_001839.wav|6|4|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0006_001840.wav|6|4|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0006_001841.wav|6|4|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0006_001842.wav|6|4|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0006_001843.wav|6|4|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0006_001844.wav|6|4|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0006_001845.wav|6|4|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0006_001846.wav|6|4|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0006_001847.wav|6|4|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0006_001848.wav|6|4|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0006_001849.wav|6|4|In the morning, if I find him still here by his own word he owes the law his life.
@@ -1339,17 +1164,12 @@
 /data/DATA/AED-wavs-22k/0007_000033.wav|7|0|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0007_000034.wav|7|0|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0007_000035.wav|7|0|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0007_000036.wav|7|0|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0007_000037.wav|7|0|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0007_000038.wav|7|0|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0007_000039.wav|7|0|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0007_000040.wav|7|0|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0007_000041.wav|7|0|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0007_000042.wav|7|0|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0007_000043.wav|7|0|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0007_000044.wav|7|0|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0007_000045.wav|7|0|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0007_000046.wav|7|0|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0007_000047.wav|7|0|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0007_000048.wav|7|0|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0007_000049.wav|7|0|In the morning, if I find him still here by his own word he owes the law his life.
@@ -1377,17 +1197,12 @@
 /data/DATA/AED-wavs-22k/0007_000483.wav|7|1|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0007_000484.wav|7|1|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0007_000485.wav|7|1|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0007_000486.wav|7|1|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0007_000487.wav|7|1|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0007_000488.wav|7|1|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0007_000489.wav|7|1|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0007_000490.wav|7|1|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0007_000491.wav|7|1|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0007_000492.wav|7|1|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0007_000493.wav|7|1|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0007_000494.wav|7|1|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0007_000495.wav|7|1|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0007_000496.wav|7|1|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0007_000497.wav|7|1|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0007_000498.wav|7|1|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0007_000499.wav|7|1|In the morning, if I find him still here by his own word he owes the law his life.
@@ -1415,17 +1230,12 @@
 /data/DATA/AED-wavs-22k/0007_000933.wav|7|2|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0007_000934.wav|7|2|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0007_000935.wav|7|2|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0007_000936.wav|7|2|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0007_000937.wav|7|2|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0007_000938.wav|7|2|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0007_000939.wav|7|2|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0007_000940.wav|7|2|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0007_000941.wav|7|2|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0007_000942.wav|7|2|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0007_000943.wav|7|2|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0007_000944.wav|7|2|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0007_000945.wav|7|2|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0007_000946.wav|7|2|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0007_000947.wav|7|2|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0007_000948.wav|7|2|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0007_000949.wav|7|2|In the morning, if I find him still here by his own word he owes the law his life.
@@ -1453,17 +1263,12 @@
 /data/DATA/AED-wavs-22k/0007_001383.wav|7|3|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0007_001384.wav|7|3|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0007_001385.wav|7|3|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0007_001386.wav|7|3|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0007_001387.wav|7|3|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0007_001388.wav|7|3|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0007_001389.wav|7|3|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0007_001390.wav|7|3|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0007_001391.wav|7|3|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0007_001392.wav|7|3|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0007_001393.wav|7|3|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0007_001394.wav|7|3|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0007_001395.wav|7|3|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0007_001396.wav|7|3|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0007_001397.wav|7|3|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0007_001398.wav|7|3|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0007_001399.wav|7|3|In the morning, if I find him still here by his own word he owes the law his life.
@@ -1491,17 +1296,12 @@
 /data/DATA/AED-wavs-22k/0007_001833.wav|7|4|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0007_001834.wav|7|4|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0007_001835.wav|7|4|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0007_001836.wav|7|4|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0007_001837.wav|7|4|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0007_001838.wav|7|4|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0007_001839.wav|7|4|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0007_001840.wav|7|4|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0007_001841.wav|7|4|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0007_001842.wav|7|4|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0007_001843.wav|7|4|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0007_001844.wav|7|4|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0007_001845.wav|7|4|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0007_001846.wav|7|4|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0007_001847.wav|7|4|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0007_001848.wav|7|4|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0007_001849.wav|7|4|In the morning, if I find him still here by his own word he owes the law his life.
@@ -1529,17 +1329,12 @@
 /data/DATA/AED-wavs-22k/0008_000033.wav|8|0|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0008_000034.wav|8|0|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0008_000035.wav|8|0|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0008_000036.wav|8|0|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0008_000037.wav|8|0|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0008_000038.wav|8|0|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0008_000039.wav|8|0|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0008_000040.wav|8|0|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0008_000041.wav|8|0|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0008_000042.wav|8|0|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0008_000043.wav|8|0|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0008_000044.wav|8|0|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0008_000045.wav|8|0|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0008_000046.wav|8|0|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0008_000047.wav|8|0|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0008_000048.wav|8|0|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0008_000049.wav|8|0|In the morning, if I find him still here by his own word he owes the law his life.
@@ -1567,17 +1362,12 @@
 /data/DATA/AED-wavs-22k/0008_000483.wav|8|1|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0008_000484.wav|8|1|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0008_000485.wav|8|1|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0008_000486.wav|8|1|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0008_000487.wav|8|1|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0008_000488.wav|8|1|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0008_000489.wav|8|1|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0008_000490.wav|8|1|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0008_000491.wav|8|1|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0008_000492.wav|8|1|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0008_000493.wav|8|1|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0008_000494.wav|8|1|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0008_000495.wav|8|1|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0008_000496.wav|8|1|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0008_000497.wav|8|1|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0008_000498.wav|8|1|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0008_000499.wav|8|1|In the morning, if I find him still here by his own word he owes the law his life.
@@ -1605,17 +1395,12 @@
 /data/DATA/AED-wavs-22k/0008_000933.wav|8|2|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0008_000934.wav|8|2|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0008_000935.wav|8|2|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0008_000936.wav|8|2|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0008_000937.wav|8|2|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0008_000938.wav|8|2|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0008_000939.wav|8|2|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0008_000940.wav|8|2|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0008_000941.wav|8|2|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0008_000942.wav|8|2|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0008_000943.wav|8|2|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0008_000944.wav|8|2|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0008_000945.wav|8|2|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0008_000946.wav|8|2|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0008_000947.wav|8|2|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0008_000948.wav|8|2|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0008_000949.wav|8|2|In the morning, if I find him still here by his own word he owes the law his life.
@@ -1643,17 +1428,12 @@
 /data/DATA/AED-wavs-22k/0008_001383.wav|8|3|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0008_001384.wav|8|3|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0008_001385.wav|8|3|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0008_001386.wav|8|3|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0008_001387.wav|8|3|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0008_001388.wav|8|3|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0008_001389.wav|8|3|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0008_001390.wav|8|3|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0008_001391.wav|8|3|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0008_001392.wav|8|3|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0008_001393.wav|8|3|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0008_001394.wav|8|3|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0008_001395.wav|8|3|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0008_001396.wav|8|3|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0008_001397.wav|8|3|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0008_001398.wav|8|3|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0008_001399.wav|8|3|In the morning, if I find him still here by his own word he owes the law his life.
@@ -1681,17 +1461,12 @@
 /data/DATA/AED-wavs-22k/0008_001833.wav|8|4|I knew that you would come back to me.
 /data/DATA/AED-wavs-22k/0008_001834.wav|8|4|A picture of Ccassius that makes him seem like
 /data/DATA/AED-wavs-22k/0008_001835.wav|8|4|After the ceremony, I will feel so much better.
-/data/DATA/AED-wavs-22k/0008_001836.wav|8|4|To the south, the wide plains of the Serengeti famous for their abundant wildlife and studded with geological wonders
 /data/DATA/AED-wavs-22k/0008_001837.wav|8|4|So I made my own rules and fought the big guys who tried to destroy my way of life.
-/data/DATA/AED-wavs-22k/0008_001838.wav|8|4|I thought you were gonna try out for the team, show these valley glen boys The Johnson Family jumper.
 /data/DATA/AED-wavs-22k/0008_001839.wav|8|4|But get the meatloaf in and glaze it as it cooks so you kill two birds with one stone.
 /data/DATA/AED-wavs-22k/0008_001840.wav|8|4|He left a couple of things to me... but I Iive from my business, opened a Iong time ago.
-/data/DATA/AED-wavs-22k/0008_001841.wav|8|4|That's funny, coming from a guy... who slept with every Turekian slave girl and moon princess on the show.
 /data/DATA/AED-wavs-22k/0008_001842.wav|8|4|I was going to say Fourth of July, but I don't want to steal any attention away from America.
 /data/DATA/AED-wavs-22k/0008_001843.wav|8|4|it was too soon. but you can't keep acting out like this when I have a shop to run.
-/data/DATA/AED-wavs-22k/0008_001844.wav|8|4|The Prosecution, has a witness who saw the defendant committed the crime, and prepared evidence to support the claim.
 /data/DATA/AED-wavs-22k/0008_001845.wav|8|4|He said he had new information and not to do anything else until you talk to him in person.
-/data/DATA/AED-wavs-22k/0008_001846.wav|8|4|Soldiers have died, wives mourned, sons grown fatherless into manhood and then gone themselves to fight and to die.
 /data/DATA/AED-wavs-22k/0008_001847.wav|8|4|So I don't know about you but the most important thing on day one anywhere, is where's the tea?
 /data/DATA/AED-wavs-22k/0008_001848.wav|8|4|But the guy is so charming I go up there to yell, then I end up apologizing to him.
 /data/DATA/AED-wavs-22k/0008_001849.wav|8|4|In the morning, if I find him still here by his own word he owes the law his life.

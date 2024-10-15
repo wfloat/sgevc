@@ -80,42 +80,45 @@ with open(train_all_path, "w") as train_all, open(train_3_path, "w") as train_3,
         offset = 0
         for emotion in emotions:
             for key, value in sorted_results_dict.items():
-                key_emotion = key + offset
-                if key in val_range:
-                    val_all.write(
-                        f"{data_dir}000{i}_{key_emotion:06d}.wav|{i}|{emotion['id']}|{value}"
-                    )
-                    val_all.write("\n")
-                elif key in test_range:
-                    test_all.write(
-                        f"{data_dir}000{i}_{key_emotion:06d}.wav|{i}|{emotion['id']}|{value}"
-                    )
-                    test_all.write("\n")
-                else:
-                    train_all.write(
-                        f"{data_dir}000{i}_{key_emotion:06d}.wav|{i}|{emotion['id']}|{value}"
-                    )
-                    train_all.write("\n")
-                    if key in train_labeled_1_percent:
-                        train_3.write(
+                if (
+                    len(value) < 100
+                ):  # TODO: temporary solution to prevent Cuda out of memory errors with larger audio samples
+                    key_emotion = key + offset
+                    if key in val_range:
+                        val_all.write(
                             f"{data_dir}000{i}_{key_emotion:06d}.wav|{i}|{emotion['id']}|{value}"
                         )
-                        train_3.write("\n")
-                    else:
-                        train_3.write(
-                            f"{data_dir}000{i}_{key_emotion:06d}.wav|{i}|100000|{value}"
-                        )
-                        train_3.write("\n")
-                    if key in train_labeled_10_percent:
-                        train_30.write(
+                        val_all.write("\n")
+                    elif key in test_range:
+                        test_all.write(
                             f"{data_dir}000{i}_{key_emotion:06d}.wav|{i}|{emotion['id']}|{value}"
                         )
-                        train_30.write("\n")
+                        test_all.write("\n")
                     else:
-                        train_30.write(
-                            f"{data_dir}000{i}_{key_emotion:06d}.wav|{i}|100000|{value}"
+                        train_all.write(
+                            f"{data_dir}000{i}_{key_emotion:06d}.wav|{i}|{emotion['id']}|{value}"
                         )
-                        train_30.write("\n")
+                        train_all.write("\n")
+                        if key in train_labeled_1_percent:
+                            train_3.write(
+                                f"{data_dir}000{i}_{key_emotion:06d}.wav|{i}|{emotion['id']}|{value}"
+                            )
+                            train_3.write("\n")
+                        else:
+                            train_3.write(
+                                f"{data_dir}000{i}_{key_emotion:06d}.wav|{i}|100000|{value}"
+                            )
+                            train_3.write("\n")
+                        if key in train_labeled_10_percent:
+                            train_30.write(
+                                f"{data_dir}000{i}_{key_emotion:06d}.wav|{i}|{emotion['id']}|{value}"
+                            )
+                            train_30.write("\n")
+                        else:
+                            train_30.write(
+                                f"{data_dir}000{i}_{key_emotion:06d}.wav|{i}|100000|{value}"
+                            )
+                            train_30.write("\n")
             offset += len(sorted_results_dict)
 
 

@@ -36,4 +36,4 @@ COPY --chown=$USERNAME:$USERNAME . .
 # RUN python setup.py build_ext --inplace
 
 # CMD ["/bin/bash", "-c", "while sleep 1000; do :; done"]
-CMD ["python", "train.py", "-c", "configs/ESD_base_en.json", "-m", "ESD_english_semi_3_gamma_1.0_alpha_0.2"]
+CMD ["python", "train.py", "-c", "configs/AED_base_en.json", "-m", "AED_english_semi_3_gamma_1.0_alpha_0.2"]

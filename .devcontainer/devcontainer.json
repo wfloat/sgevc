@@ -10,7 +10,8 @@
       "extensions": [
         "ms-python.python",
         "eamodio.gitlens",
-        "ms-python.black-formatter"
+        "ms-python.black-formatter",
+        "streetsidesoftware.code-spell-checker"
       ],
       "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"

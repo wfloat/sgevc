@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Train",
+            "name": "Train ESD",
             "type": "debugpy",
             "request": "launch",
             "program": "${cwd}/train.py",
@@ -15,6 +15,19 @@
                 "configs/ESD_base_en.json",
                 "-m",
                 "ESD_english_semi_3_gamma_1.0_alpha_0.2"
+            ]
+        },
+        {
+            "name": "Train AED",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${cwd}/train.py",
+            "console": "integratedTerminal",
+            "args": [
+                "-c",
+                "configs/AED_base_en.json",
+                "-m",
+                "AED_english_semi_3_gamma_1.0_alpha_0.2"
             ]
         }
     ]

@@ -1,3 +1,4 @@
 *
 !.gitignore
-!ESD-transcripts.txt
+!ESD_transcripts_en.txt
+!AED_transcripts_en.txt
